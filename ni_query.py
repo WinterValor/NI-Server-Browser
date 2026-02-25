@@ -158,13 +158,9 @@ def decode_udp_response(data, ip, port):
     """
     Best-effort decode of the Warband binary server info response.
 
-    String section: bytes 0-84 (null-delimited, XOR-obfuscated, cipher unknown)
-    Integer section: bytes 85+ (4-byte LE ints: game settings)
-
-    From one captured 174-byte packet (116.202.115.104:21261):
-      int[6]=128 → likely max_players
-      int[8]=2   → likely active_players
-      (UNVERIFIED — [BOTH] cross-ref will confirm)
+    String section: null-delimited, XOR-obfuscated; cipher unknown but brute-forced.
+    Integer section: 4-byte LE ints. max_players found via anchor pattern
+      24 03 00 00 08 00 00 00 → max_players at anchor+8 (confirmed from [BOTH] analysis).
     """
     if not data or len(data) < 20:
         return None
@@ -182,17 +178,22 @@ def decode_udp_response(data, ip, port):
                     break
             seg_start = i + 1
 
-    # ── Extract integers from byte 85 onward ──
+    # ── Extract integers for debug logging ──
     int_sec = data[85:] if len(data) > 85 else b''
     ints = []
     for off in range(0, len(int_sec) - 3, 4):
         ints.append(struct.unpack_from('<I', int_sec, off)[0])
 
-    max_pl = ints[6] if len(ints) > 6 else 0
-    cur_pl = ints[8] if len(ints) > 8 else 0
-    if max_pl > 500 or cur_pl > max_pl:
+    # ── max_players: search for confirmed anchor pattern 24 03 00 00 08 00 00 00 ──
+    ANCHOR = bytes([0x24, 0x03, 0x00, 0x00, 0x08, 0x00, 0x00, 0x00])
+    anchor_pos = data.find(ANCHOR)
+    if anchor_pos >= 0 and anchor_pos + 12 <= len(data):
+        max_pl = struct.unpack_from('<I', data, anchor_pos + 8)[0]
+        if max_pl > 500:
+            max_pl = 0
+    else:
         max_pl = 0
-        cur_pl = 0
+    cur_pl = 0  # players count offset not yet confirmed; default to 0
 
     return {
         'name':      name,
@@ -229,18 +230,17 @@ def probe_server(ip, port):
 
     if udp_data:
         dec = decode_udp_response(udp_data, ip, port)
-        if dec:
-            placeholder = dec['name'] or f"NI_EU_???_{ip}:{port}"
-            dec['name'] = placeholder
-            if dec['name'].startswith('NI_'):
-                dprint(f"[UDP ] {ip}:{port}  method={udp_method}  "
-                       f"name={dec['name']!r}  players={dec['players']}  max={dec['max']}")
-            else:
+        if dec and dec['name'] and dec['name'].startswith('NI_'):
+            dprint(f"[UDP ] {ip}:{port}  method={udp_method}  "
+                   f"name={dec['name']!r}  players={dec['players']}  max={dec['max']}")
+            return dec
+        else:
+            # Unknown / non-NI server — log hex for future analysis but don't include in output
+            if dec:
                 dprint(f"[UDP?] {ip}:{port}  method={udp_method}  name=UNKNOWN  "
                        f"players={dec['players']}  max={dec['max']}")
                 dprint(f"  full_hex={udp_data.hex()}")
                 dprint(f"  ints={dec['_udp_ints']}")
-            return dec
 
     # Both failed — log why
     if udp_method not in ('no_ack', 'no_resp', 'failed') and udp_method:

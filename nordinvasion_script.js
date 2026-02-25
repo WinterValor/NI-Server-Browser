@@ -1009,7 +1009,7 @@ function ServerBrowserPreStuff(){
 
 function ServerBrowserInit(){
     // GitHub Actions updates this JSON every 5 min via UDP+HTTP probing of the TW master list
-    const JSON_URL = "https://raw.githubusercontent.com/WinterValor/NI/main/ni_servers.json";
+    const JSON_URL = "https://raw.githubusercontent.com/WinterValor/NI-Server-Browser/main/ni_servers.json";
     // Fallback: mnbcentral HTML sources
     const SOURCES = [
         "http://www.mnbcentral.net/min",
