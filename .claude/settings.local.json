@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__cloudflare-api__search",
+      "mcp__cloudflare-api__execute",
+      "Bash(wrangler:*)",
+      "Bash(echo NOT_FOUND:*)",
+      "Bash(where npx:*)",
+      "Bash(claude mcp:*)",
+      "mcp__github__search_repositories",
+      "mcp__github__search_code",
+      "WebSearch",
+      "mcp__github__get_file_contents",
+      "WebFetch(domain:wiki.nordinvasion.com)",
+      "Bash(gh api:*)",
+      "mcp__github__create_repository"
+    ]
+  }
+}

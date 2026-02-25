@@ -1,0 +1,59 @@
+Facts we confirmed
+
+Warband’s master list endpoint https://warbandmain.taleworlds.com/handlerservers.ashx?type=list returns only endpoints in the form IP:PORT|IP:PORT|... — no server names like NI_EU_*.
+
+The in-game browser then sends a small UDP query to each endpoint to retrieve server info (name/module/map/players).
+
+When joining a server, Warband sends type=chkserial including ip=IP:PORT (and your serial). That proves the game is using those endpoints.
+
+M&B Central (mnbcentral) implements the same approach: pull TW master list, then query servers to build a web list; it also provides a scrape-friendly .../min format, but it may be incomplete.
+
+Why your PowerShell “HTTP XML” probe misses EU servers
+
+Your script does Invoke-WebRequest http://IP:PORT/ and parses XML tags like <Name>.
+
+That HTTP/XML status page is not the canonical Warband query; many servers don’t expose it (or block it), so you’ll miss servers even if they’re real + joinable in-game.
+
+Warband’s real discovery uses UDP, so your PowerShell must use UDP if you want parity with the game.
+
+Browser/Tampermonkey feasibility (key constraint)
+
+A userscript running in a browser cannot send arbitrary UDP packets, so it cannot directly query Warband servers to get names/maps/players (the same way the game does).
+
+Therefore, to show a complete/accurate server list (including NI_EU), the userscript needs an HTTP source that already performed the UDP querying.
+
+Viable implementation options for the Tampermonkey script
+Option A (recommended): Your own “UDP → JSON” proxy service
+
+Backend service (Node/Python/etc.) does:
+
+GET TW master list type=list → parse endpoints.
+
+UDP query each endpoint (parallel, timeouts) to get server info.
+
+(Known from analysis: Warband client sends a small fixed UDP payload to query server info; details in community analysis.)
+
+Filter servers where Name starts with NI_.
+
+Serve cached JSON: /ni.json (refresh every 10–30s).
+
+Tampermonkey does:
+
+fetch("https://your-host/ni.json") or GM_xmlhttpRequest
+
+Render into your existing categories based on server name (Normal/Hard/Ragnarok/Cavalry/Beginner/Other).
+
+Pros: complete + fast + matches in-game.
+Cons: requires hosting/running a small service (can be local localhost too).
+
+Option B: Use a third-party HTTP list (fallback)
+
+Scrape https://www.mnbcentral.net/min or similar and filter NI_.
+
+Use GM_xmlhttpRequest to avoid CORS issues.
+Pros: no backend.
+Cons: may miss servers / availability issues (as you saw).
+
+Extra debugging tip we used
+
+You can identify which IP:PORT a server uses by sniffing the chkserial request in Wireshark (handlerservers.ashx?type=chkserial...&ip=...). Don’t log/paste your serial.
