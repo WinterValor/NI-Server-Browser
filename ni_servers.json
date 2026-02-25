@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "name": "NI_CN_Cavalry",
+    "module": "NordInvasion",
+    "map": "Battle of Praven",
+    "players": 0,
+    "max": 8
+  },
+  {
+    "name": "NI_CN_Hard",
+    "module": "NordInvasion",
+    "map": "Coastal Raid",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_CN_Normal",
+    "module": "NordInvasion",
+    "map": "Swadian Temple",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_CN_Ragnarok",
+    "module": "NordInvasion",
+    "map": "Forgotten Bay",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_Midren_Test",
+    "module": "NordInvasion",
+    "map": "Hyper's Castle",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_NA_Beginner_1",
+    "module": "NordInvasion",
+    "map": "Swadian Outskirts",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_NA_Cavalry_1",
+    "module": "NordInvasion",
+    "map": "Winter's Respite",
+    "players": 0,
+    "max": 8
+  },
+  {
+    "name": "NI_NA_Hard_2",
+    "module": "NordInvasion",
+    "map": "Offshore",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_NA_Normal_1",
+    "module": "NordInvasion",
+    "map": "Frosthaven",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_NA_Normal_2",
+    "module": "NordInvasion",
+    "map": "Forgotten Bay",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_NA_Ragnarok_1",
+    "module": "NordInvasion",
+    "map": "Hyper's Castle",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_NA_Ragnarok_2",
+    "module": "NordInvasion",
+    "map": "Nordic Village",
+    "players": 0,
+    "max": 16
+  }
+]
