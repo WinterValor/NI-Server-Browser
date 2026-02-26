@@ -79,8 +79,8 @@
   {
     "name": "NI_NA_Ragnarok_2",
     "module": "NordInvasion",
-    "map": "First Defence",
-    "players": 1,
+    "map": "Swadian Folly",
+    "players": 0,
     "max": 16
   }
 ]
