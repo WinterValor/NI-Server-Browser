@@ -37,8 +37,8 @@
   {
     "name": "NI_NA_Beginner_1",
     "module": "NordInvasion",
-    "map": "Graubergen",
-    "players": 2,
+    "map": "Hidden Cave",
+    "players": 0,
     "max": 16
   },
   {
