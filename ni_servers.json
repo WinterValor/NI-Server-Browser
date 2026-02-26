@@ -37,8 +37,8 @@
   {
     "name": "NI_NA_Beginner_1",
     "module": "NordInvasion",
-    "map": "Coastal Raid",
-    "players": 0,
+    "map": "Fortress Outskirts",
+    "players": 2,
     "max": 16
   },
   {
@@ -58,7 +58,7 @@
   {
     "name": "NI_NA_Normal_1",
     "module": "NordInvasion",
-    "map": "Frosthaven",
+    "map": "Graubergen",
     "players": 0,
     "max": 16
   },
