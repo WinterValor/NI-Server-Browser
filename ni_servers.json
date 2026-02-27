@@ -37,8 +37,8 @@
   {
     "name": "NI_NA_Beginner_1",
     "module": "NordInvasion",
-    "map": "Hidden Cave",
-    "players": 0,
+    "map": "Hyper's Castle",
+    "players": 2,
     "max": 16
   },
   {
