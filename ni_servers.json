@@ -37,8 +37,8 @@
   {
     "name": "NI_NA_Beginner_1",
     "module": "NordInvasion",
-    "map": "Hyper's Castle",
-    "players": 2,
+    "map": "Hyper's Hell",
+    "players": 0,
     "max": 16
   },
   {
