@@ -75,12 +75,5 @@
     "map": "Swadian Folly",
     "players": 0,
     "max": 16
-  },
-  {
-    "name": "NI_SH_VM_Event",
-    "module": "NordInvasion",
-    "map": "Swadian Lighthouse",
-    "players": 10,
-    "max": 16
   }
 ]
