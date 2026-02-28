@@ -65,8 +65,8 @@
   {
     "name": "NI_NA_Ragnarok_1",
     "module": "NordInvasion",
-    "map": "Lake Town",
-    "players": 1,
+    "map": "Yalen Retreat",
+    "players": 2,
     "max": 16
   },
   {
