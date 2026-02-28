@@ -1,12 +1,5 @@
 [
   {
-    "name": "NI_CN_Cavalry",
-    "module": "NordInvasion",
-    "map": "Battle of Praven",
-    "players": 0,
-    "max": 8
-  },
-  {
     "name": "NI_CN_Hard",
     "module": "NordInvasion",
     "map": "Coastal Raid",
