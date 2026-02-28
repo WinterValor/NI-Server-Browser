@@ -65,8 +65,8 @@
   {
     "name": "NI_NA_Ragnarok_1",
     "module": "NordInvasion",
-    "map": "Yalen Retreat",
-    "players": 2,
+    "map": "Caravan Ambush",
+    "players": 0,
     "max": 16
   },
   {
