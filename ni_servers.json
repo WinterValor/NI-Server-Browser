@@ -1,8 +1,29 @@
 [
   {
+    "name": "NI_CN_Cavalry",
+    "module": "NordInvasion",
+    "map": "Battle of Praven",
+    "players": 0,
+    "max": 8
+  },
+  {
     "name": "NI_CN_Hard",
     "module": "NordInvasion",
     "map": "Coastal Raid",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_CN_Normal",
+    "module": "NordInvasion",
+    "map": "Swadian Temple",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_CN_Ragnarok",
+    "module": "NordInvasion",
+    "map": "Forgotten Bay",
     "players": 0,
     "max": 16
   },
