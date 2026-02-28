@@ -12,12 +12,5 @@
     "map": "Forgotten Bay",
     "players": 0,
     "max": 16
-  },
-  {
-    "name": "NI_NA_Ragnarok_1",
-    "module": "NordInvasion",
-    "map": "Lake Town",
-    "players": 0,
-    "max": 16
   }
 ]
