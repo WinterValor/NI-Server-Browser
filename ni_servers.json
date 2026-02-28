@@ -30,8 +30,8 @@
   {
     "name": "NI_NA_Beginner_1",
     "module": "NordInvasion",
-    "map": "Hyper's Hell",
-    "players": 1,
+    "map": "King's Castleyard",
+    "players": 0,
     "max": 16
   },
   {
@@ -66,7 +66,7 @@
     "name": "NI_NA_Ragnarok_1",
     "module": "NordInvasion",
     "map": "Lake Town",
-    "players": 0,
+    "players": 1,
     "max": 16
   },
   {
