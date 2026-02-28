@@ -14,51 +14,9 @@
     "max": 16
   },
   {
-    "name": "NI_NA_Beginner_1",
-    "module": "NordInvasion",
-    "map": "Hyper's Hell",
-    "players": 0,
-    "max": 16
-  },
-  {
-    "name": "NI_NA_Cavalry_1",
-    "module": "NordInvasion",
-    "map": "Winter's Respite",
-    "players": 0,
-    "max": 8
-  },
-  {
-    "name": "NI_NA_Hard_2",
-    "module": "NordInvasion",
-    "map": "Offshore",
-    "players": 0,
-    "max": 16
-  },
-  {
-    "name": "NI_NA_Normal_1",
-    "module": "NordInvasion",
-    "map": "Hyper's Castle",
-    "players": 0,
-    "max": 16
-  },
-  {
-    "name": "NI_NA_Normal_2",
-    "module": "NordInvasion",
-    "map": "Frosthaven",
-    "players": 0,
-    "max": 16
-  },
-  {
     "name": "NI_NA_Ragnarok_1",
     "module": "NordInvasion",
-    "map": "Hyper's Castle",
-    "players": 0,
-    "max": 16
-  },
-  {
-    "name": "NI_NA_Ragnarok_2",
-    "module": "NordInvasion",
-    "map": "Swadian Folly",
+    "map": "Lake Town",
     "players": 0,
     "max": 16
   }
