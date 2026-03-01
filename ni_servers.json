@@ -1,9 +1,9 @@
 [
   {
-    "name": "NI_CN_Hard",
+    "name": "NI_CN_Hard*",
     "module": "NordInvasion",
-    "map": "King's Reach",
-    "players": 1,
+    "map": "Swadian Castle",
+    "players": 9,
     "max": 16
   },
   {
