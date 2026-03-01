@@ -79,8 +79,8 @@
   {
     "name": "NI_NA_Ragnarok_2",
     "module": "NordInvasion",
-    "map": "Swadian Folly",
-    "players": 1,
+    "map": "Hyper's Castle",
+    "players": 7,
     "max": 16
   }
 ]
