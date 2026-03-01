@@ -56,10 +56,10 @@
     "max": 16
   },
   {
-    "name": "NI_NA_Normal_1*",
+    "name": "NI_NA_Normal_1",
     "module": "NordInvasion",
-    "map": "Offshore",
-    "players": 5,
+    "map": "Keancuop Forest",
+    "players": 3,
     "max": 16
   },
   {
