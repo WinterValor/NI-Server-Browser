@@ -49,10 +49,10 @@
     "max": 16
   },
   {
-    "name": "NI_NA_Normal_2",
+    "name": "NI_NA_Normal_2*",
     "module": "NordInvasion",
     "map": "Offshore",
-    "players": 0,
+    "players": 1,
     "max": 16
   },
   {
