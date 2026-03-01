@@ -56,10 +56,10 @@
     "max": 16
   },
   {
-    "name": "NI_NA_Normal_1",
+    "name": "NI_NA_Normal_1*",
     "module": "NordInvasion",
-    "map": "Hyper's Castle",
-    "players": 0,
+    "map": "Offshore",
+    "players": 5,
     "max": 16
   },
   {
