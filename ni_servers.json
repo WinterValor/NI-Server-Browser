@@ -2,7 +2,7 @@
   {
     "name": "NI_CN_Hard",
     "module": "NordInvasion",
-    "map": "Swadian Lighthouse",
+    "map": "Praven",
     "players": 0,
     "max": 16
   },
@@ -17,7 +17,7 @@
     "name": "NI_EU_Developer_1",
     "module": "NordInvasion",
     "map": "Praven",
-    "players": 1,
+    "players": 0,
     "max": 16
   },
   {
