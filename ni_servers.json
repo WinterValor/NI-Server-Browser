@@ -28,13 +28,6 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Developer_1",
-    "module": "NordInvasion",
-    "map": "Port Assault",
-    "players": 0,
-    "max": 16
-  },
-  {
     "name": "NI_NA_Beginner_1",
     "module": "NordInvasion",
     "map": "King's Castleyard",
@@ -58,7 +51,7 @@
   {
     "name": "NI_NA_Normal_1",
     "module": "NordInvasion",
-    "map": "Keancuop Forest",
+    "map": "Lake Town",
     "players": 3,
     "max": 16
   },
