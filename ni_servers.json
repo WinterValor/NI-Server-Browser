@@ -1,9 +1,9 @@
 [
   {
-    "name": "NI_CN_Hard*",
+    "name": "NI_CN_Hard",
     "module": "NordInvasion",
-    "map": "Swadian Castle",
-    "players": 9,
+    "map": "Swadian Lighthouse",
+    "players": 0,
     "max": 16
   },
   {
@@ -16,8 +16,8 @@
   {
     "name": "NI_CN_Ragnarok",
     "module": "NordInvasion",
-    "map": "Forgotten Bay",
-    "players": 0,
+    "map": "First Defence",
+    "players": 16,
     "max": 16
   },
   {
