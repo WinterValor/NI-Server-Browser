@@ -9,7 +9,7 @@
   {
     "name": "NI_CN_Hard",
     "module": "NordInvasion",
-    "map": "Unuzdaq Castle",
+    "map": "Swadian Lighthouse",
     "players": 0,
     "max": 16
   },
@@ -133,10 +133,10 @@
     "max": 16
   },
   {
-    "name": "NI_NA_Normal_2",
+    "name": "NI_NA_Normal_2*",
     "module": "NordInvasion",
-    "map": "Hande's Retreat",
-    "players": 0,
+    "map": "Hidden Cave",
+    "players": 2,
     "max": 16
   },
   {
