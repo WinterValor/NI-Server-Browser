@@ -16,7 +16,7 @@
   {
     "name": "NI_CN_Normal",
     "module": "NordInvasion",
-    "map": "Swadian Temple",
+    "map": "Hidden Cave",
     "players": 0,
     "max": 16
   },
@@ -114,7 +114,7 @@
   {
     "name": "NI_NA_Cavalry_1",
     "module": "NordInvasion",
-    "map": "Beach Assault",
+    "map": "Battle of Praven",
     "players": 0,
     "max": 8
   },
