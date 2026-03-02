@@ -31,7 +31,7 @@
     "name": "NI_EU_Cavalry_1",
     "module": "NordInvasion",
     "map": "Battle of Praven",
-    "players": 0,
+    "players": 1,
     "max": 8
   },
   {
@@ -72,15 +72,15 @@
   {
     "name": "NI_EU_Normal_2",
     "module": "NordInvasion",
-    "map": "Fortress Outskirts",
-    "players": 0,
+    "map": "Swadian Mines",
+    "players": 1,
     "max": 16
   },
   {
     "name": "NI_EU_Normal_3",
     "module": "NordInvasion",
-    "map": "King's Castleyard",
-    "players": 1,
+    "map": "Forgotten Bay",
+    "players": 0,
     "max": 16
   },
   {
@@ -121,7 +121,7 @@
   {
     "name": "NI_NA_Normal_1",
     "module": "NordInvasion",
-    "map": "Old Shire",
+    "map": "Praven",
     "players": 0,
     "max": 16
   },
