@@ -45,7 +45,7 @@
     "name": "NI_EU_Cavalry_2",
     "module": "NordInvasion",
     "map": "Winter's Respite",
-    "players": 3,
+    "players": 0,
     "max": 8
   },
   {
@@ -114,7 +114,7 @@
   {
     "name": "NI_NA_Cavalry_1",
     "module": "NordInvasion",
-    "map": "Winter's Respite",
+    "map": "Beach Assault",
     "players": 0,
     "max": 8
   },
@@ -128,7 +128,7 @@
   {
     "name": "NI_NA_Normal_1",
     "module": "NordInvasion",
-    "map": "Nordic Village",
+    "map": "Offshore",
     "players": 0,
     "max": 16
   },
