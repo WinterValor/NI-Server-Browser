@@ -65,8 +65,8 @@
   {
     "name": "NI_EU_Hard_3",
     "module": "NordInvasion",
-    "map": "Swadian Overgrown",
-    "players": 1,
+    "map": "Fortress Outskirts",
+    "players": 0,
     "max": 16
   },
   {
@@ -86,8 +86,8 @@
   {
     "name": "NI_EU_Normal_3",
     "module": "NordInvasion",
-    "map": "Offshore",
-    "players": 0,
+    "map": "Swadian Overgrown",
+    "players": 4,
     "max": 16
   },
   {
