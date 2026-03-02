@@ -65,7 +65,7 @@
   {
     "name": "NI_EU_Hard_3",
     "module": "NordInvasion",
-    "map": "Lake Town",
+    "map": "Frosthaven",
     "players": 1,
     "max": 16
   },
@@ -79,7 +79,7 @@
   {
     "name": "NI_EU_Normal_2",
     "module": "NordInvasion",
-    "map": "Hyper's Castle",
+    "map": "Fortress Outskirts",
     "players": 0,
     "max": 16
   },
