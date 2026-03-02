@@ -86,8 +86,8 @@
   {
     "name": "NI_EU_Normal_3",
     "module": "NordInvasion",
-    "map": "Swadian Overgrown",
-    "players": 4,
+    "map": "Caravan Ambush",
+    "players": 6,
     "max": 16
   },
   {
