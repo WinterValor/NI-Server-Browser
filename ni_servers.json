@@ -59,7 +59,7 @@
     "name": "NI_EU_Hard_2",
     "module": "NordInvasion",
     "map": "Keancuop Forest",
-    "players": 0,
+    "players": 4,
     "max": 16
   },
   {
@@ -86,7 +86,7 @@
   {
     "name": "NI_EU_Normal_3",
     "module": "NordInvasion",
-    "map": "Forgotten Bay",
+    "map": "Swadian Outskirts",
     "players": 0,
     "max": 16
   },
@@ -117,6 +117,13 @@
     "map": "Plains of Knudarr",
     "players": 0,
     "max": 8
+  },
+  {
+    "name": "NI_NA_Hard_2",
+    "module": "NordInvasion",
+    "map": "Praven",
+    "players": 0,
+    "max": 16
   },
   {
     "name": "NI_NA_Normal_1",
