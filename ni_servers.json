@@ -28,10 +28,10 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Hard_2",
+    "name": "NI_EU_Hard_2*",
     "module": "NordInvasion",
-    "map": "Keancuop Forest",
-    "players": 1,
+    "map": "Forest Outpost",
+    "players": 13,
     "max": 16
   },
   {
@@ -58,8 +58,8 @@
   {
     "name": "NI_EU_Normal_3",
     "module": "NordInvasion",
-    "map": "Swadian Temple",
-    "players": 1,
+    "map": "Swadian Lighthouse",
+    "players": 0,
     "max": 16
   },
   {
