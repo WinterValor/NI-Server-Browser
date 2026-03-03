@@ -105,23 +105,16 @@
     "max": 16
   },
   {
-    "name": "NI_NA_Cavalry_1",
-    "module": "NordInvasion",
-    "map": "Dills and Hills",
-    "players": 0,
-    "max": 8
-  },
-  {
-    "name": "NI_NA_Hard_2",
+    "name": "NI_NA_Normal_1",
     "module": "NordInvasion",
     "map": "Praven",
     "players": 0,
     "max": 16
   },
   {
-    "name": "NI_NA_Normal_1",
+    "name": "NI_NA_Normal_2",
     "module": "NordInvasion",
-    "map": "Praven",
+    "map": "Hyper's Hell",
     "players": 0,
     "max": 16
   },
