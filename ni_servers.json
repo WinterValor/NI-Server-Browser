@@ -23,8 +23,8 @@
   {
     "name": "NI_EU_Beginner_1",
     "module": "NordInvasion",
-    "map": "Swadian Outskirts",
-    "players": 1,
+    "map": "Hyper's Castle",
+    "players": 0,
     "max": 16
   },
   {
@@ -105,13 +105,6 @@
     "max": 16
   },
   {
-    "name": "NI_NA_Cavalry_1",
-    "module": "NordInvasion",
-    "map": "Battle of Praven",
-    "players": 0,
-    "max": 8
-  },
-  {
     "name": "NI_NA_Hard_2",
     "module": "NordInvasion",
     "map": "Nordic Fortress",
@@ -122,6 +115,13 @@
     "name": "NI_NA_Normal_1",
     "module": "NordInvasion",
     "map": "Praven",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_NA_Ragnarok_1",
+    "module": "NordInvasion",
+    "map": "Nordic Fortress",
     "players": 0,
     "max": 16
   },
