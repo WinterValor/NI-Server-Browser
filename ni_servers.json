@@ -128,8 +128,8 @@
   {
     "name": "NI_NA_Normal_1",
     "module": "NordInvasion",
-    "map": "Swadian Outskirts",
-    "players": 13,
+    "map": "Swadian Temple",
+    "players": 11,
     "max": 16
   },
   {
