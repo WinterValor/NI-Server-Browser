@@ -23,8 +23,8 @@
   {
     "name": "NI_CN_Ragnarok",
     "module": "NordInvasion",
-    "map": "Forgotten Bay",
-    "players": 0,
+    "map": "First Defence",
+    "players": 1,
     "max": 16
   }
 ]
