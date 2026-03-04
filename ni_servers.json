@@ -37,8 +37,8 @@
   {
     "name": "NI_EU_Cavalry_1",
     "module": "NordInvasion",
-    "map": "Medieval Fields",
-    "players": 1,
+    "map": "Beach Assault",
+    "players": 0,
     "max": 8
   },
   {
@@ -72,7 +72,7 @@
   {
     "name": "NI_EU_Normal_1",
     "module": "NordInvasion",
-    "map": "Lake Town",
+    "map": "Hyper's Castle",
     "players": 0,
     "max": 16
   },
