@@ -2,7 +2,7 @@
   {
     "name": "NI_CN_Cavalry",
     "module": "NordInvasion",
-    "map": "Battle of Praven",
+    "map": "Winter's Respite",
     "players": 0,
     "max": 8
   },
@@ -52,7 +52,7 @@
     "name": "NI_EU_Hard_1",
     "module": "NordInvasion",
     "map": "Swadian Overgrown",
-    "players": 0,
+    "players": 10,
     "max": 16
   },
   {
