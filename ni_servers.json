@@ -24,14 +24,7 @@
     "name": "NI_CN_Ragnarok",
     "module": "NordInvasion",
     "map": "Forgotten Bay",
-    "players": 0,
-    "max": 16
-  },
-  {
-    "name": "NI_EU_Hard_2*",
-    "module": "NordInvasion",
-    "map": "Nordic Fortress",
-    "players": 6,
+    "players": 1,
     "max": 16
   }
 ]
