@@ -16,8 +16,8 @@
   {
     "name": "NI_CN_Normal",
     "module": "NordInvasion",
-    "map": "Hidden Cave",
-    "players": 1,
+    "map": "Graubergen",
+    "players": 0,
     "max": 16
   },
   {
@@ -30,14 +30,14 @@
   {
     "name": "NI_EU_Beginner_1",
     "module": "NordInvasion",
-    "map": "Fortress Under Siege",
+    "map": "Coastal Raid",
     "players": 0,
     "max": 16
   },
   {
     "name": "NI_EU_Cavalry_1",
     "module": "NordInvasion",
-    "map": "Medieval Fields",
+    "map": "Winter's Respite",
     "players": 0,
     "max": 8
   },
@@ -51,56 +51,56 @@
   {
     "name": "NI_EU_Hard_1",
     "module": "NordInvasion",
-    "map": "Swadian Temple",
+    "map": "Lake Town",
     "players": 0,
     "max": 16
   },
   {
     "name": "NI_EU_Hard_2",
     "module": "NordInvasion",
-    "map": "Swadian Great Hall",
+    "map": "Keancuop Forest",
     "players": 0,
     "max": 16
   },
   {
     "name": "NI_EU_Hard_3",
     "module": "NordInvasion",
-    "map": "Forgotten Bay",
+    "map": "Lake Town",
     "players": 0,
     "max": 16
   },
   {
     "name": "NI_EU_Normal_1",
     "module": "NordInvasion",
-    "map": "Hidden Farm",
+    "map": "Port Assault",
     "players": 0,
     "max": 16
   },
   {
     "name": "NI_EU_Normal_2",
     "module": "NordInvasion",
-    "map": "Fortress Outskirts",
+    "map": "Hyper's Castle",
     "players": 0,
     "max": 16
   },
   {
     "name": "NI_EU_Normal_3",
     "module": "NordInvasion",
-    "map": "Offshore",
+    "map": "Swadian Temple",
     "players": 0,
     "max": 16
   },
   {
     "name": "NI_EU_Ragnarok_1",
     "module": "NordInvasion",
-    "map": "Old Shire",
+    "map": "Hyper's Castle",
     "players": 0,
     "max": 16
   },
   {
     "name": "NI_EU_Ragnarok_2",
     "module": "NordInvasion",
-    "map": "Port Assault",
+    "map": "Lake Town",
     "players": 0,
     "max": 16
   },
