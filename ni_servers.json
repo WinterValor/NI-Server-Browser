@@ -9,22 +9,22 @@
   {
     "name": "NI_CN_Hard",
     "module": "NordInvasion",
-    "map": "Coastal Raid",
+    "map": "Swadian Castle",
     "players": 0,
     "max": 16
   },
   {
     "name": "NI_CN_Normal",
     "module": "NordInvasion",
-    "map": "Swadian Folly",
-    "players": 0,
+    "map": "Swadian Castle",
+    "players": 2,
     "max": 16
   },
   {
     "name": "NI_CN_Ragnarok",
     "module": "NordInvasion",
     "map": "First Defence",
-    "players": 1,
+    "players": 0,
     "max": 16
   }
 ]
