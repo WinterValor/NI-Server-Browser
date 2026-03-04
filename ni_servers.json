@@ -58,8 +58,8 @@
   {
     "name": "NI_EU_Hard_2",
     "module": "NordInvasion",
-    "map": "Keancuop Forest",
-    "players": 0,
+    "map": "Lake Town",
+    "players": 4,
     "max": 16
   },
   {
@@ -72,8 +72,8 @@
   {
     "name": "NI_EU_Normal_1",
     "module": "NordInvasion",
-    "map": "Hidden Farm",
-    "players": 1,
+    "map": "Frosthaven",
+    "players": 0,
     "max": 16
   },
   {
@@ -100,8 +100,8 @@
   {
     "name": "NI_EU_Ragnarok_2",
     "module": "NordInvasion",
-    "map": "Lake Town",
-    "players": 0,
+    "map": "Fortress Under Siege",
+    "players": 1,
     "max": 16
   }
 ]
