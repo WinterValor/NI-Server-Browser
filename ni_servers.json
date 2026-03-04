@@ -16,8 +16,8 @@
   {
     "name": "NI_CN_Normal",
     "module": "NordInvasion",
-    "map": "Caravan Ambush",
-    "players": 0,
+    "map": "Swadian Castle",
+    "players": 2,
     "max": 16
   },
   {
