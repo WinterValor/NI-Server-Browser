@@ -16,8 +16,8 @@
   {
     "name": "NI_CN_Normal",
     "module": "NordInvasion",
-    "map": "Hidden Cave",
-    "players": 5,
+    "map": "Graubergen",
+    "players": 0,
     "max": 16
   },
   {
@@ -70,10 +70,10 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Normal_1",
+    "name": "NI_EU_Normal_1*",
     "module": "NordInvasion",
     "map": "Frosthaven",
-    "players": 0,
+    "players": 6,
     "max": 16
   },
   {
