@@ -23,8 +23,8 @@
   {
     "name": "NI_CN_Ragnarok",
     "module": "NordInvasion",
-    "map": "Forgotten Bay",
-    "players": 1,
+    "map": "Swadian Lighthouse",
+    "players": 0,
     "max": 16
   }
 ]
