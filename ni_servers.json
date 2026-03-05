@@ -28,11 +28,46 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Cavalry_2*",
+    "name": "NI_EU_Beginner_1",
     "module": "NordInvasion",
-    "map": "Medieval Fields",
-    "players": 3,
+    "map": "Coastal Raid",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Cavalry_1",
+    "module": "NordInvasion",
+    "map": "Dills and Hills",
+    "players": 0,
     "max": 8
+  },
+  {
+    "name": "NI_EU_Cavalry_2",
+    "module": "NordInvasion",
+    "map": "Beach Assault",
+    "players": 0,
+    "max": 8
+  },
+  {
+    "name": "NI_EU_Hard_1",
+    "module": "NordInvasion",
+    "map": "Swadian Overgrown",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Hard_2",
+    "module": "NordInvasion",
+    "map": "Keancuop Forest",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Hard_3",
+    "module": "NordInvasion",
+    "map": "Lake Town",
+    "players": 0,
+    "max": 16
   },
   {
     "name": "NI_EU_Normal_1",
@@ -42,10 +77,17 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Normal_3*",
+    "name": "NI_EU_Normal_2",
     "module": "NordInvasion",
-    "map": "Swadian Overgrown",
-    "players": 5,
+    "map": "Fortress Under Siege",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Normal_3",
+    "module": "NordInvasion",
+    "map": "Forgotten Bay",
+    "players": 0,
     "max": 16
   },
   {
@@ -65,14 +107,14 @@
   {
     "name": "NI_NA_Beginner_1",
     "module": "NordInvasion",
-    "map": "First Defence",
+    "map": "Forest Outpost",
     "players": 0,
     "max": 16
   },
   {
     "name": "NI_NA_Cavalry_1",
     "module": "NordInvasion",
-    "map": "Battle of Praven",
+    "map": "Backwood Raid",
     "players": 0,
     "max": 8
   },
@@ -86,14 +128,14 @@
   {
     "name": "NI_NA_Normal_1",
     "module": "NordInvasion",
-    "map": "First Defence",
+    "map": "Fortress Outskirts",
     "players": 0,
     "max": 16
   },
   {
     "name": "NI_NA_Normal_2",
     "module": "NordInvasion",
-    "map": "Caravan Ambush",
+    "map": "Coastal Raid",
     "players": 0,
     "max": 16
   },
