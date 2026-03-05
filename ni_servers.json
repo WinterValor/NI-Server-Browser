@@ -72,15 +72,15 @@
   {
     "name": "NI_EU_Normal_1",
     "module": "NordInvasion",
-    "map": "Port Assault",
-    "players": 0,
+    "map": "Lake Town",
+    "players": 1,
     "max": 16
   },
   {
     "name": "NI_EU_Normal_2",
     "module": "NordInvasion",
-    "map": "Fortress Outskirts",
-    "players": 1,
+    "map": "Swadian Mines",
+    "players": 0,
     "max": 16
   },
   {
@@ -107,7 +107,7 @@
   {
     "name": "NI_NA_Beginner_1",
     "module": "NordInvasion",
-    "map": "Caravan Ambush",
+    "map": "First Defence",
     "players": 0,
     "max": 16
   },
