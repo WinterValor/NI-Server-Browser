@@ -72,8 +72,8 @@
   {
     "name": "NI_EU_Normal_1",
     "module": "NordInvasion",
-    "map": "Swadian Folly",
-    "players": 0,
+    "map": "Hande's Retreat",
+    "players": 6,
     "max": 16
   },
   {
@@ -136,7 +136,7 @@
     "name": "NI_NA_Normal_2",
     "module": "NordInvasion",
     "map": "Caravan Ambush",
-    "players": 1,
+    "players": 0,
     "max": 16
   },
   {
