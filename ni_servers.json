@@ -28,13 +28,6 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Hard_2",
-    "module": "NordInvasion",
-    "map": "Lake Town",
-    "players": 7,
-    "max": 16
-  },
-  {
     "name": "NI_NA_Beginner_1",
     "module": "NordInvasion",
     "map": "Forest Outpost",
