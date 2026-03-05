@@ -9,14 +9,14 @@
   {
     "name": "NI_CN_Hard",
     "module": "NordInvasion",
-    "map": "Coastal Raid",
+    "map": "Swadian Castle",
     "players": 0,
     "max": 16
   },
   {
     "name": "NI_CN_Normal",
     "module": "NordInvasion",
-    "map": "Swadian Town",
+    "map": "Port Assault",
     "players": 0,
     "max": 16
   },
@@ -72,8 +72,8 @@
   {
     "name": "NI_EU_Normal_1",
     "module": "NordInvasion",
-    "map": "Hande's Retreat",
-    "players": 6,
+    "map": "Swadian Lighthouse",
+    "players": 0,
     "max": 16
   },
   {
@@ -87,7 +87,7 @@
     "name": "NI_EU_Normal_3",
     "module": "NordInvasion",
     "map": "Swadian Temple",
-    "players": 0,
+    "players": 1,
     "max": 16
   },
   {
@@ -128,7 +128,7 @@
   {
     "name": "NI_NA_Normal_1",
     "module": "NordInvasion",
-    "map": "Caravan Ambush",
+    "map": "Coastal Raid",
     "players": 0,
     "max": 16
   },
