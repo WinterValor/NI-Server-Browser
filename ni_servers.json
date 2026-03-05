@@ -9,7 +9,7 @@
   {
     "name": "NI_CN_Hard",
     "module": "NordInvasion",
-    "map": "Swadian Castle",
+    "map": "Swadian Lighthouse",
     "players": 0,
     "max": 16
   },
@@ -37,8 +37,8 @@
   {
     "name": "NI_EU_Cavalry_1",
     "module": "NordInvasion",
-    "map": "Medieval Fields",
-    "players": 8,
+    "map": "Dills and Hills",
+    "players": 0,
     "max": 8
   },
   {
@@ -87,7 +87,7 @@
     "name": "NI_EU_Normal_3",
     "module": "NordInvasion",
     "map": "Swadian Lighthouse",
-    "players": 0,
+    "players": 2,
     "max": 16
   },
   {
@@ -101,7 +101,7 @@
     "name": "NI_EU_Ragnarok_2",
     "module": "NordInvasion",
     "map": "Lake Town",
-    "players": 0,
+    "players": 3,
     "max": 16
   },
   {
@@ -121,14 +121,14 @@
   {
     "name": "NI_NA_Hard_2",
     "module": "NordInvasion",
-    "map": "Nordic Fortress",
+    "map": "Graubergen",
     "players": 0,
     "max": 16
   },
   {
     "name": "NI_NA_Normal_1",
     "module": "NordInvasion",
-    "map": "Coastal Raid",
+    "map": "First Defence",
     "players": 0,
     "max": 16
   },
