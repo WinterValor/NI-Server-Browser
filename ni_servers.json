@@ -35,13 +35,6 @@
     "max": 16
   },
   {
-    "name": "NI_NA_Cavalry_1",
-    "module": "NordInvasion",
-    "map": "Backwood Raid",
-    "players": 0,
-    "max": 8
-  },
-  {
     "name": "NI_NA_Hard_2",
     "module": "NordInvasion",
     "map": "Coastal Raid",
@@ -56,10 +49,10 @@
     "max": 16
   },
   {
-    "name": "NI_NA_Normal_2",
+    "name": "NI_NA_Normal_2*",
     "module": "NordInvasion",
-    "map": "Coastal Raid",
-    "players": 0,
+    "map": "First Defence",
+    "players": 4,
     "max": 16
   },
   {
