@@ -28,11 +28,60 @@
     "max": 16
   },
   {
+    "name": "NI_EU_Cavalry_1",
+    "module": "NordInvasion",
+    "map": "Dills and Hills",
+    "players": 0,
+    "max": 8
+  },
+  {
+    "name": "NI_EU_Hard_2",
+    "module": "NordInvasion",
+    "map": "Nordic Fortress",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Hard_3",
+    "module": "NordInvasion",
+    "map": "Forgotten Bay",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Normal_1",
+    "module": "NordInvasion",
+    "map": "Caravan Ambush",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Normal_3",
+    "module": "NordInvasion",
+    "map": "Forgotten Bay",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Ragnarok_1",
+    "module": "NordInvasion",
+    "map": "Coastal Raid",
+    "players": 0,
+    "max": 16
+  },
+  {
     "name": "NI_NA_Beginner_1",
     "module": "NordInvasion",
     "map": "Forest Outpost",
     "players": 0,
     "max": 16
+  },
+  {
+    "name": "NI_NA_Cavalry_1",
+    "module": "NordInvasion",
+    "map": "Backwood Raid",
+    "players": 0,
+    "max": 8
   },
   {
     "name": "NI_NA_Hard_2",
@@ -49,10 +98,10 @@
     "max": 16
   },
   {
-    "name": "NI_NA_Normal_2*",
+    "name": "NI_NA_Normal_2",
     "module": "NordInvasion",
-    "map": "First Defence",
-    "players": 4,
+    "map": "Fortress Outskirts",
+    "players": 5,
     "max": 16
   },
   {
