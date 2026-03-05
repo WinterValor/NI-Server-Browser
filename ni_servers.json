@@ -72,8 +72,8 @@
   {
     "name": "NI_EU_Normal_1",
     "module": "NordInvasion",
-    "map": "Swadian Folly",
-    "players": 1,
+    "map": "First Defence",
+    "players": 2,
     "max": 16
   },
   {
