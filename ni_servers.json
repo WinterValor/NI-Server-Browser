@@ -79,8 +79,8 @@
   {
     "name": "NI_EU_Normal_2",
     "module": "NordInvasion",
-    "map": "Hyper's Castle",
-    "players": 0,
+    "map": "Fortress Outskirts",
+    "players": 1,
     "max": 16
   },
   {
