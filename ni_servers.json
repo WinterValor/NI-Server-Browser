@@ -28,46 +28,11 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Beginner_1",
+    "name": "NI_EU_Cavalry_2*",
     "module": "NordInvasion",
-    "map": "Coastal Raid",
-    "players": 0,
-    "max": 16
-  },
-  {
-    "name": "NI_EU_Cavalry_1",
-    "module": "NordInvasion",
-    "map": "Dills and Hills",
-    "players": 0,
+    "map": "Medieval Fields",
+    "players": 3,
     "max": 8
-  },
-  {
-    "name": "NI_EU_Cavalry_2",
-    "module": "NordInvasion",
-    "map": "Winter's Respite",
-    "players": 0,
-    "max": 8
-  },
-  {
-    "name": "NI_EU_Hard_1",
-    "module": "NordInvasion",
-    "map": "Swadian Overgrown",
-    "players": 0,
-    "max": 16
-  },
-  {
-    "name": "NI_EU_Hard_2",
-    "module": "NordInvasion",
-    "map": "Keancuop Forest",
-    "players": 0,
-    "max": 16
-  },
-  {
-    "name": "NI_EU_Hard_3",
-    "module": "NordInvasion",
-    "map": "Lake Town",
-    "players": 0,
-    "max": 16
   },
   {
     "name": "NI_EU_Normal_1",
@@ -77,17 +42,10 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Normal_2",
+    "name": "NI_EU_Normal_3*",
     "module": "NordInvasion",
-    "map": "Fortress Under Siege",
-    "players": 0,
-    "max": 16
-  },
-  {
-    "name": "NI_EU_Normal_3",
-    "module": "NordInvasion",
-    "map": "Swadian Lighthouse",
-    "players": 2,
+    "map": "Swadian Overgrown",
+    "players": 5,
     "max": 16
   },
   {
@@ -100,8 +58,8 @@
   {
     "name": "NI_EU_Ragnarok_2",
     "module": "NordInvasion",
-    "map": "Lake Town",
-    "players": 3,
+    "map": "Frosthaven",
+    "players": 0,
     "max": 16
   },
   {
@@ -121,7 +79,7 @@
   {
     "name": "NI_NA_Hard_2",
     "module": "NordInvasion",
-    "map": "Graubergen",
+    "map": "Coastal Raid",
     "players": 0,
     "max": 16
   },
