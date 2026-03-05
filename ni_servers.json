@@ -28,11 +28,32 @@
     "max": 16
   },
   {
+    "name": "NI_EU_Beginner_1",
+    "module": "NordInvasion",
+    "map": "Coastal Raid",
+    "players": 0,
+    "max": 16
+  },
+  {
     "name": "NI_EU_Cavalry_1",
     "module": "NordInvasion",
     "map": "Dills and Hills",
     "players": 0,
     "max": 8
+  },
+  {
+    "name": "NI_EU_Cavalry_2",
+    "module": "NordInvasion",
+    "map": "Beach Assault",
+    "players": 0,
+    "max": 8
+  },
+  {
+    "name": "NI_EU_Hard_1",
+    "module": "NordInvasion",
+    "map": "Old Shire",
+    "players": 0,
+    "max": 16
   },
   {
     "name": "NI_EU_Hard_2",
@@ -51,7 +72,14 @@
   {
     "name": "NI_EU_Normal_1",
     "module": "NordInvasion",
-    "map": "Caravan Ambush",
+    "map": "Traders' Valley",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Normal_2",
+    "module": "NordInvasion",
+    "map": "Fortress Under Siege",
     "players": 0,
     "max": 16
   },
@@ -66,6 +94,13 @@
     "name": "NI_EU_Ragnarok_1",
     "module": "NordInvasion",
     "map": "Coastal Raid",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Ragnarok_2",
+    "module": "NordInvasion",
+    "map": "Frosthaven",
     "players": 0,
     "max": 16
   },
@@ -86,7 +121,7 @@
   {
     "name": "NI_NA_Hard_2",
     "module": "NordInvasion",
-    "map": "Coastal Raid",
+    "map": "King's Castleyard",
     "players": 0,
     "max": 16
   },
@@ -100,8 +135,8 @@
   {
     "name": "NI_NA_Normal_2",
     "module": "NordInvasion",
-    "map": "Fortress Outskirts",
-    "players": 5,
+    "map": "Frosthaven",
+    "players": 0,
     "max": 16
   },
   {
