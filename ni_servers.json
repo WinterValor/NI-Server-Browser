@@ -37,8 +37,8 @@
   {
     "name": "NI_EU_Cavalry_1",
     "module": "NordInvasion",
-    "map": "Winter's Respite",
-    "players": 5,
+    "map": "Medieval Fields",
+    "players": 8,
     "max": 8
   },
   {
