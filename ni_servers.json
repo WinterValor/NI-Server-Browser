@@ -128,7 +128,7 @@
   {
     "name": "NI_NA_Normal_1",
     "module": "NordInvasion",
-    "map": "Graubergen",
+    "map": "Hande's Retreat",
     "players": 0,
     "max": 16
   },
@@ -151,6 +151,13 @@
     "module": "NordInvasion",
     "map": "Nordic Fortress",
     "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_midren_test",
+    "module": "NordInvasion",
+    "map": "Coastal Raid",
+    "players": 1,
     "max": 16
   }
 ]
