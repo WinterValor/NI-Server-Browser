@@ -93,8 +93,8 @@
   {
     "name": "NI_EU_Ragnarok_1",
     "module": "NordInvasion",
-    "map": "Hyper's Castle",
-    "players": 0,
+    "map": "Port Assault",
+    "players": 1,
     "max": 16
   },
   {
