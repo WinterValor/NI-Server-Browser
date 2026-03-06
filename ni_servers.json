@@ -30,7 +30,7 @@
   {
     "name": "NI_NA_Beginner_1",
     "module": "NordInvasion",
-    "map": "Forest Outpost",
+    "map": "Forgotten Bay",
     "players": 0,
     "max": 16
   },
@@ -49,10 +49,10 @@
     "max": 16
   },
   {
-    "name": "NI_NA_Normal_1",
+    "name": "NI_NA_Normal_1*",
     "module": "NordInvasion",
-    "map": "Hyper's Hell",
-    "players": 0,
+    "map": "Keancuop Forest",
+    "players": 3,
     "max": 16
   },
   {
