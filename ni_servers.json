@@ -58,8 +58,8 @@
   {
     "name": "NI_EU_Hard_2",
     "module": "NordInvasion",
-    "map": "Keancuop Forest",
-    "players": 0,
+    "map": "Forest Outpost",
+    "players": 1,
     "max": 16
   },
   {
@@ -94,7 +94,7 @@
     "name": "NI_EU_Ragnarok_1",
     "module": "NordInvasion",
     "map": "Port Assault",
-    "players": 1,
+    "players": 0,
     "max": 16
   },
   {
