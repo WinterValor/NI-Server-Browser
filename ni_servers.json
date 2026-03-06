@@ -58,8 +58,8 @@
   {
     "name": "NI_EU_Hard_2",
     "module": "NordInvasion",
-    "map": "Forest Outpost",
-    "players": 1,
+    "map": "Nordic Fortress",
+    "players": 0,
     "max": 16
   },
   {
@@ -86,7 +86,7 @@
   {
     "name": "NI_EU_Normal_3",
     "module": "NordInvasion",
-    "map": "Swadian Temple",
+    "map": "Swadian Lighthouse",
     "players": 0,
     "max": 16
   },
@@ -94,7 +94,7 @@
     "name": "NI_EU_Ragnarok_1",
     "module": "NordInvasion",
     "map": "Port Assault",
-    "players": 0,
+    "players": 1,
     "max": 16
   },
   {
@@ -128,7 +128,7 @@
   {
     "name": "NI_NA_Normal_1",
     "module": "NordInvasion",
-    "map": "Hande's Retreat",
+    "map": "Hidden Cave",
     "players": 0,
     "max": 16
   },
