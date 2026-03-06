@@ -52,14 +52,14 @@
     "name": "NI_EU_Hard_1",
     "module": "NordInvasion",
     "map": "Hidden Cave",
-    "players": 0,
+    "players": 3,
     "max": 16
   },
   {
     "name": "NI_EU_Hard_2",
     "module": "NordInvasion",
-    "map": "Swadian Great Hall",
-    "players": 4,
+    "map": "Swadian Castle",
+    "players": 0,
     "max": 16
   },
   {
