@@ -28,27 +28,6 @@
     "max": 16
   },
   {
-    "name": "NI_EU_DB_SD_Event",
-    "module": "NordInvasion",
-    "map": "Fortress Under Siege",
-    "players": 13,
-    "max": 16
-  },
-  {
-    "name": "NI_EU_Hard_1",
-    "module": "NordInvasion",
-    "map": "Hidden Cave",
-    "players": 0,
-    "max": 16
-  },
-  {
-    "name": "NI_EU_Normal_3",
-    "module": "NordInvasion",
-    "map": "Swadian Lighthouse",
-    "players": 0,
-    "max": 16
-  },
-  {
     "name": "NI_NA_Beginner_1",
     "module": "NordInvasion",
     "map": "Forest Outpost",
@@ -79,8 +58,8 @@
   {
     "name": "NI_NA_Normal_2",
     "module": "NordInvasion",
-    "map": "Lake Town",
-    "players": 2,
+    "map": "Offshore",
+    "players": 0,
     "max": 16
   },
   {
