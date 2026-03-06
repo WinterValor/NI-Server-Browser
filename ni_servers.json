@@ -28,6 +28,34 @@
     "max": 16
   },
   {
+    "name": "NI_EU_Beginner_1",
+    "module": "NordInvasion",
+    "map": "Coastal Raid",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Cavalry_1",
+    "module": "NordInvasion",
+    "map": "Winter's Respite",
+    "players": 0,
+    "max": 8
+  },
+  {
+    "name": "NI_EU_Cavalry_2",
+    "module": "NordInvasion",
+    "map": "Winter's Respite",
+    "players": 0,
+    "max": 8
+  },
+  {
+    "name": "NI_EU_Ragnarok_2",
+    "module": "NordInvasion",
+    "map": "Lake Town",
+    "players": 0,
+    "max": 16
+  },
+  {
     "name": "NI_NA_Beginner_1",
     "module": "NordInvasion",
     "map": "Forest Outpost",
@@ -51,8 +79,8 @@
   {
     "name": "NI_NA_Normal_1",
     "module": "NordInvasion",
-    "map": "Hyper's Castle",
-    "players": 1,
+    "map": "Hyper's Hell",
+    "players": 0,
     "max": 16
   },
   {
