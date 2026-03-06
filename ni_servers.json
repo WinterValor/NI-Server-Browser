@@ -38,7 +38,7 @@
     "name": "NI_EU_Cavalry_1",
     "module": "NordInvasion",
     "map": "Dills and Hills",
-    "players": 0,
+    "players": 1,
     "max": 8
   },
   {
@@ -51,7 +51,7 @@
   {
     "name": "NI_EU_Hard_1",
     "module": "NordInvasion",
-    "map": "Old Shire",
+    "map": "Forgotten Bay",
     "players": 0,
     "max": 16
   },
@@ -128,8 +128,8 @@
   {
     "name": "NI_NA_Normal_1",
     "module": "NordInvasion",
-    "map": "Fortress Outskirts",
-    "players": 0,
+    "map": "Fortress Under Siege",
+    "players": 1,
     "max": 16
   },
   {
