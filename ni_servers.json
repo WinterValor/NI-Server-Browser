@@ -73,7 +73,7 @@
     "name": "NI_EU_Normal_1",
     "module": "NordInvasion",
     "map": "Port Assault",
-    "players": 0,
+    "players": 1,
     "max": 16
   },
   {
