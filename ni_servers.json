@@ -28,10 +28,24 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Cavalry_2*",
+    "name": "NI_EU_Beginner_1",
+    "module": "NordInvasion",
+    "map": "Coastal Raid",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Cavalry_1",
     "module": "NordInvasion",
     "map": "Winter's Respite",
-    "players": 4,
+    "players": 0,
+    "max": 8
+  },
+  {
+    "name": "NI_EU_Cavalry_2*",
+    "module": "NordInvasion",
+    "map": "Medieval Fields",
+    "players": 7,
     "max": 8
   },
   {
@@ -40,13 +54,6 @@
     "map": "Forest Outpost",
     "players": 0,
     "max": 16
-  },
-  {
-    "name": "NI_NA_Cavalry_1",
-    "module": "NordInvasion",
-    "map": "Dills and Hills",
-    "players": 0,
-    "max": 8
   },
   {
     "name": "NI_NA_Hard_2",
