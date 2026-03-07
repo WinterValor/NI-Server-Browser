@@ -51,7 +51,7 @@
   {
     "name": "NI_EU_Hard_1",
     "module": "NordInvasion",
-    "map": "Lake Town",
+    "map": "Swadian Temple",
     "players": 0,
     "max": 16
   },
@@ -72,7 +72,7 @@
   {
     "name": "NI_EU_Normal_1",
     "module": "NordInvasion",
-    "map": "Swadian Temple",
+    "map": "Hyper's Castle",
     "players": 0,
     "max": 16
   },
@@ -100,7 +100,7 @@
   {
     "name": "NI_EU_Ragnarok_2",
     "module": "NordInvasion",
-    "map": "Lake Town",
+    "map": "King's Castleyard",
     "players": 0,
     "max": 16
   },
