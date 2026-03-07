@@ -30,7 +30,7 @@
   {
     "name": "NI_EU_Beginner_1",
     "module": "NordInvasion",
-    "map": "Swadian Outskirts",
+    "map": "Senuzgda Cavern",
     "players": 0,
     "max": 16
   },
@@ -86,8 +86,8 @@
   {
     "name": "NI_EU_Normal_3",
     "module": "NordInvasion",
-    "map": "Swadian Overgrown",
-    "players": 6,
+    "map": "Old Shire",
+    "players": 12,
     "max": 16
   },
   {
@@ -133,9 +133,9 @@
     "max": 16
   },
   {
-    "name": "NI_NA_Normal_2",
+    "name": "NI_NA_Normal_2*",
     "module": "NordInvasion",
-    "map": "Offshore",
+    "map": "Old Shire",
     "players": 1,
     "max": 16
   },
