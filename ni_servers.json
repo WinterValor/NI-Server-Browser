@@ -38,7 +38,7 @@
     "name": "NI_EU_Cavalry_1",
     "module": "NordInvasion",
     "map": "Winter's Respite",
-    "players": 1,
+    "players": 3,
     "max": 8
   },
   {
@@ -51,7 +51,7 @@
   {
     "name": "NI_EU_Hard_2",
     "module": "NordInvasion",
-    "map": "Lake Town",
+    "map": "Nordic Fortress",
     "players": 2,
     "max": 16
   },
@@ -93,8 +93,8 @@
   {
     "name": "NI_EU_Ragnarok_2",
     "module": "NordInvasion",
-    "map": "Swadian Castle",
-    "players": 2,
+    "map": "Port Assault",
+    "players": 3,
     "max": 16
   },
   {
@@ -105,9 +105,51 @@
     "max": 16
   },
   {
+    "name": "NI_NA_Beginner_1",
+    "module": "NordInvasion",
+    "map": "Forgotten Bay",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_NA_Cavalry_1",
+    "module": "NordInvasion",
+    "map": "Backwood Raid",
+    "players": 0,
+    "max": 8
+  },
+  {
+    "name": "NI_NA_Hard_2",
+    "module": "NordInvasion",
+    "map": "Royal Observatory",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_NA_Normal_1",
+    "module": "NordInvasion",
+    "map": "Caravan Ambush",
+    "players": 0,
+    "max": 16
+  },
+  {
     "name": "NI_NA_Normal_2",
     "module": "NordInvasion",
     "map": "Caravan Ambush",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_NA_Ragnarok_1",
+    "module": "NordInvasion",
+    "map": "Nordic Fortress",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_NA_Ragnarok_2",
+    "module": "NordInvasion",
+    "map": "Graubergen",
     "players": 0,
     "max": 16
   }
