@@ -28,10 +28,10 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Hard_1",
+    "name": "NI_EU_Hard_1*",
     "module": "NordInvasion",
     "map": "Swadian Overgrown",
-    "players": 10,
+    "players": 14,
     "max": 16
   },
   {
