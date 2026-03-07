@@ -58,8 +58,8 @@
   {
     "name": "NI_EU_Hard_2",
     "module": "NordInvasion",
-    "map": "Keancuop Forest",
-    "players": 1,
+    "map": "Lake Town",
+    "players": 0,
     "max": 16
   },
   {
