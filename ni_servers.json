@@ -9,14 +9,14 @@
   {
     "name": "NI_CN_Hard",
     "module": "NordInvasion",
-    "map": "Swadian Lighthouse",
+    "map": "Coastal Raid",
     "players": 0,
     "max": 16
   },
   {
     "name": "NI_CN_Normal",
     "module": "NordInvasion",
-    "map": "Hidden Cave",
+    "map": "Swadian Temple",
     "players": 0,
     "max": 16
   },
@@ -56,10 +56,10 @@
     "max": 16
   },
   {
-    "name": "NI_NA_Normal_2",
+    "name": "NI_NA_Normal_2*",
     "module": "NordInvasion",
-    "map": "Senuzgda Cavern",
-    "players": 2,
+    "map": "Swadian Citadel",
+    "players": 8,
     "max": 16
   },
   {
