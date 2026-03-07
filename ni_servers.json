@@ -30,8 +30,8 @@
   {
     "name": "NI_EU_Beginner_1",
     "module": "NordInvasion",
-    "map": "Graubergen",
-    "players": 2,
+    "map": "Swadian Outskirts",
+    "players": 0,
     "max": 16
   },
   {
@@ -44,8 +44,8 @@
   {
     "name": "NI_EU_Cavalry_2",
     "module": "NordInvasion",
-    "map": "Beach Assault",
-    "players": 6,
+    "map": "Dills and Hills",
+    "players": 0,
     "max": 8
   },
   {
@@ -87,7 +87,7 @@
     "name": "NI_EU_Normal_3",
     "module": "NordInvasion",
     "map": "Swadian Overgrown",
-    "players": 0,
+    "players": 6,
     "max": 16
   },
   {
@@ -136,7 +136,7 @@
     "name": "NI_NA_Normal_2",
     "module": "NordInvasion",
     "map": "Offshore",
-    "players": 0,
+    "players": 1,
     "max": 16
   },
   {
