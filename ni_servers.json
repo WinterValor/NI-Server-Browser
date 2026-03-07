@@ -3,7 +3,7 @@
     "name": "NI_CN_Cavalry",
     "module": "NordInvasion",
     "map": "Battle of Praven",
-    "players": 0,
+    "players": 3,
     "max": 8
   },
   {
@@ -24,6 +24,27 @@
     "name": "NI_CN_Ragnarok",
     "module": "NordInvasion",
     "map": "Forgotten Bay",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_NA_Hard_2",
+    "module": "NordInvasion",
+    "map": "Royal Observatory",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_NA_Normal_1",
+    "module": "NordInvasion",
+    "map": "Caravan Ambush",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_NA_Ragnarok_1",
+    "module": "NordInvasion",
+    "map": "Nordic Fortress",
     "players": 0,
     "max": 16
   }
