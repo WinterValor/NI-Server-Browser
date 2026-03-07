@@ -28,13 +28,6 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Hard_1*",
-    "module": "NordInvasion",
-    "map": "Swadian Overgrown",
-    "players": 14,
-    "max": 16
-  },
-  {
     "name": "NI_NA_Beginner_1",
     "module": "NordInvasion",
     "map": "Forgotten Bay",
@@ -81,6 +74,13 @@
     "module": "NordInvasion",
     "map": "Nordic Fortress",
     "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_Official_Event",
+    "module": "NordInvasion",
+    "map": "Old Shire",
+    "players": 18,
     "max": 16
   }
 ]
