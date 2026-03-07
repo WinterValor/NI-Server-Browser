@@ -7,10 +7,10 @@
     "max": 8
   },
   {
-    "name": "NI_CN_Hard",
+    "name": "NI_CN_Hard*",
     "module": "NordInvasion",
-    "map": "Forest Outpost",
-    "players": 3,
+    "map": "Swadian Castle",
+    "players": 7,
     "max": 16
   },
   {
