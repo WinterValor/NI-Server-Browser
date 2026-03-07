@@ -38,7 +38,7 @@
     "name": "NI_NA_Cavalry_1",
     "module": "NordInvasion",
     "map": "Swadian Night Raid",
-    "players": 0,
+    "players": 3,
     "max": 8
   },
   {
@@ -58,8 +58,8 @@
   {
     "name": "NI_NA_Normal_2",
     "module": "NordInvasion",
-    "map": "Swadian Folly",
-    "players": 10,
+    "map": "Swadian Lighthouse",
+    "players": 0,
     "max": 16
   },
   {
