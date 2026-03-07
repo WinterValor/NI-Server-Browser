@@ -86,8 +86,8 @@
   {
     "name": "NI_EU_Normal_3",
     "module": "NordInvasion",
-    "map": "Old Shire",
-    "players": 12,
+    "map": "King's Castleyard",
+    "players": 16,
     "max": 16
   },
   {
@@ -133,10 +133,10 @@
     "max": 16
   },
   {
-    "name": "NI_NA_Normal_2*",
+    "name": "NI_NA_Normal_2",
     "module": "NordInvasion",
-    "map": "Old Shire",
-    "players": 1,
+    "map": "Praven",
+    "players": 0,
     "max": 16
   },
   {
