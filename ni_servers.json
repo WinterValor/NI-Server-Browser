@@ -9,8 +9,8 @@
   {
     "name": "NI_CN_Hard",
     "module": "NordInvasion",
-    "map": "Unuzdaq Castle",
-    "players": 0,
+    "map": "Forest Outpost",
+    "players": 3,
     "max": 16
   },
   {
