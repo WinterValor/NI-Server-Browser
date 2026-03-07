@@ -56,10 +56,10 @@
     "max": 16
   },
   {
-    "name": "NI_NA_Normal_2*",
+    "name": "NI_NA_Normal_2",
     "module": "NordInvasion",
-    "map": "Swadian Citadel",
-    "players": 8,
+    "map": "Swadian Folly",
+    "players": 10,
     "max": 16
   },
   {
