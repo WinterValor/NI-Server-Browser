@@ -21,13 +21,6 @@
     "max": 16
   },
   {
-    "name": "NI_CN_Ragnarok",
-    "module": "NordInvasion",
-    "map": "Forgotten Bay",
-    "players": 0,
-    "max": 16
-  },
-  {
     "name": "NI_NA_Beginner_1",
     "module": "NordInvasion",
     "map": "Forgotten Bay",
@@ -56,10 +49,10 @@
     "max": 16
   },
   {
-    "name": "NI_NA_Normal_2*",
+    "name": "NI_NA_Normal_2",
     "module": "NordInvasion",
-    "map": "Hande's Retreat",
-    "players": 7,
+    "map": "Hyper's Hell",
+    "players": 9,
     "max": 16
   },
   {
