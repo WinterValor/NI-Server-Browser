@@ -98,10 +98,10 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Ragnarok_2*",
+    "name": "NI_EU_Ragnarok_2",
     "module": "NordInvasion",
-    "map": "Frosthaven",
-    "players": 11,
+    "map": "King's Castleyard",
+    "players": 13,
     "max": 16
   },
   {
