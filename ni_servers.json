@@ -35,10 +35,10 @@
     "max": 16
   },
   {
-    "name": "NI_NA_Cavalry_1",
+    "name": "NI_NA_Cavalry_1*",
     "module": "NordInvasion",
     "map": "Backwood Raid",
-    "players": 1,
+    "players": 2,
     "max": 8
   },
   {
