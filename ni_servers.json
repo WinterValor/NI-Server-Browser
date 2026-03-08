@@ -21,6 +21,13 @@
     "max": 16
   },
   {
+    "name": "NI_CN_Ragnarok",
+    "module": "NordInvasion",
+    "map": "Forgotten Bay",
+    "players": 0,
+    "max": 16
+  },
+  {
     "name": "NI_NA_Beginner_1",
     "module": "NordInvasion",
     "map": "Forgotten Bay",
@@ -51,8 +58,8 @@
   {
     "name": "NI_NA_Normal_2",
     "module": "NordInvasion",
-    "map": "Hyper's Hell",
-    "players": 9,
+    "map": "Keancuop Forest",
+    "players": 12,
     "max": 16
   },
   {
