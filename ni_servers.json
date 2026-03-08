@@ -114,8 +114,8 @@
   {
     "name": "NI_NA_Cavalry_1",
     "module": "NordInvasion",
-    "map": "Beach Assault",
-    "players": 1,
+    "map": "Battle of Praven",
+    "players": 0,
     "max": 8
   },
   {
