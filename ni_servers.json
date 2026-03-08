@@ -28,6 +28,13 @@
     "max": 16
   },
   {
+    "name": "NI_EU_Normal_2",
+    "module": "NordInvasion",
+    "map": "Forest Outpost",
+    "players": 2,
+    "max": 16
+  },
+  {
     "name": "NI_NA_Beginner_1",
     "module": "NordInvasion",
     "map": "Forgotten Bay",
@@ -65,8 +72,8 @@
   {
     "name": "NI_NA_Ragnarok_1",
     "module": "NordInvasion",
-    "map": "Nordic Fortress",
-    "players": 3,
+    "map": "Graubergen",
+    "players": 0,
     "max": 16
   },
   {
