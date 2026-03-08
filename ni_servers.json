@@ -2,15 +2,15 @@
   {
     "name": "NI_CN_Cavalry",
     "module": "NordInvasion",
-    "map": "Winter's Respite",
-    "players": 3,
+    "map": "Medieval Fields",
+    "players": 0,
     "max": 8
   },
   {
     "name": "NI_CN_Hard",
     "module": "NordInvasion",
     "map": "Coastal Raid",
-    "players": 0,
+    "players": 3,
     "max": 16
   },
   {
@@ -126,10 +126,10 @@
     "max": 16
   },
   {
-    "name": "NI_NA_Normal_1",
+    "name": "NI_NA_Normal_1*",
     "module": "NordInvasion",
     "map": "First Defence",
-    "players": 0,
+    "players": 1,
     "max": 16
   },
   {
