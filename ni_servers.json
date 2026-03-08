@@ -2,15 +2,15 @@
   {
     "name": "NI_CN_Cavalry",
     "module": "NordInvasion",
-    "map": "Medieval Fields",
+    "map": "Beach Assault",
     "players": 0,
     "max": 8
   },
   {
     "name": "NI_CN_Hard",
     "module": "NordInvasion",
-    "map": "Coastal Raid",
-    "players": 3,
+    "map": "Swadian Castle",
+    "players": 0,
     "max": 16
   },
   {
@@ -80,7 +80,7 @@
     "name": "NI_EU_Normal_2",
     "module": "NordInvasion",
     "map": "Hyper's Castle",
-    "players": 0,
+    "players": 1,
     "max": 16
   },
   {
@@ -126,10 +126,10 @@
     "max": 16
   },
   {
-    "name": "NI_NA_Normal_1*",
+    "name": "NI_NA_Normal_1",
     "module": "NordInvasion",
-    "map": "First Defence",
-    "players": 1,
+    "map": "Forest Outpost",
+    "players": 0,
     "max": 16
   },
   {
