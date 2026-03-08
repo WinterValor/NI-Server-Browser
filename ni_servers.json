@@ -44,7 +44,7 @@
   {
     "name": "NI_NA_Hard_2",
     "module": "NordInvasion",
-    "map": "Senuzgda Cavern",
+    "map": "Swadian Old Village",
     "players": 0,
     "max": 16
   },
@@ -59,7 +59,7 @@
     "name": "NI_NA_Normal_2",
     "module": "NordInvasion",
     "map": "Frosthaven",
-    "players": 0,
+    "players": 1,
     "max": 16
   },
   {
@@ -74,13 +74,6 @@
     "module": "NordInvasion",
     "map": "Graubergen",
     "players": 0,
-    "max": 16
-  },
-  {
-    "name": "NI_SD_DB_Event",
-    "module": "NordInvasion",
-    "map": "Swadian Folly",
-    "players": 16,
     "max": 16
   }
 ]
