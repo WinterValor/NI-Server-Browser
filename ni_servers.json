@@ -31,14 +31,14 @@
     "name": "NI_NA_Beginner_1",
     "module": "NordInvasion",
     "map": "Forgotten Bay",
-    "players": 1,
+    "players": 0,
     "max": 16
   },
   {
     "name": "NI_NA_Cavalry_1",
     "module": "NordInvasion",
     "map": "Beach Assault",
-    "players": 3,
+    "players": 0,
     "max": 8
   },
   {
@@ -58,7 +58,7 @@
   {
     "name": "NI_NA_Normal_2",
     "module": "NordInvasion",
-    "map": "Fortress Under Siege",
+    "map": "Frosthaven",
     "players": 0,
     "max": 16
   },
@@ -80,7 +80,7 @@
     "name": "NI_SD_DB_Event",
     "module": "NordInvasion",
     "map": "Swadian Folly",
-    "players": 14,
+    "players": 16,
     "max": 16
   }
 ]
