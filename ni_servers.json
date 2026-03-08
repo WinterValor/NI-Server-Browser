@@ -35,9 +35,9 @@
     "max": 16
   },
   {
-    "name": "NI_NA_Cavalry_1*",
+    "name": "NI_NA_Cavalry_1",
     "module": "NordInvasion",
-    "map": "Backwood Raid",
+    "map": "Plains of Knudarr",
     "players": 2,
     "max": 8
   },
@@ -59,7 +59,7 @@
     "name": "NI_NA_Normal_2",
     "module": "NordInvasion",
     "map": "Caravan Ambush",
-    "players": 0,
+    "players": 2,
     "max": 16
   },
   {
