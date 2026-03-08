@@ -58,7 +58,7 @@
   {
     "name": "NI_EU_Hard_2",
     "module": "NordInvasion",
-    "map": "Keancuop Forest",
+    "map": "Lake Town",
     "players": 0,
     "max": 16
   },
@@ -79,8 +79,8 @@
   {
     "name": "NI_EU_Normal_2",
     "module": "NordInvasion",
-    "map": "Hyper's Castle",
-    "players": 1,
+    "map": "Fortress Outskirts",
+    "players": 0,
     "max": 16
   },
   {
