@@ -56,10 +56,10 @@
     "max": 16
   },
   {
-    "name": "NI_NA_Normal_2",
+    "name": "NI_NA_Normal_2*",
     "module": "NordInvasion",
-    "map": "Frosthaven",
-    "players": 1,
+    "map": "Hande's Retreat",
+    "players": 7,
     "max": 16
   },
   {
