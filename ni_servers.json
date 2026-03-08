@@ -28,10 +28,10 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Ragnarok_2*",
+    "name": "NI_EU_Hard_2",
     "module": "NordInvasion",
-    "map": "First Defence",
-    "players": 5,
+    "map": "Swadian Great Hall",
+    "players": 0,
     "max": 16
   },
   {
@@ -58,7 +58,7 @@
   {
     "name": "NI_NA_Normal_1",
     "module": "NordInvasion",
-    "map": "Caravan Ambush",
+    "map": "First Defence",
     "players": 0,
     "max": 16
   },
