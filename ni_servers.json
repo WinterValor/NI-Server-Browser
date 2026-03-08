@@ -28,6 +28,83 @@
     "max": 16
   },
   {
+    "name": "NI_EU_Beginner_1",
+    "module": "NordInvasion",
+    "map": "Swadian Old Village",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Cavalry_1",
+    "module": "NordInvasion",
+    "map": "Medieval Fields",
+    "players": 0,
+    "max": 8
+  },
+  {
+    "name": "NI_EU_Cavalry_2",
+    "module": "NordInvasion",
+    "map": "Winter's Respite",
+    "players": 0,
+    "max": 8
+  },
+  {
+    "name": "NI_EU_Hard_1",
+    "module": "NordInvasion",
+    "map": "Lake Town",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Hard_2",
+    "module": "NordInvasion",
+    "map": "Lake Town",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Hard_3",
+    "module": "NordInvasion",
+    "map": "Lake Town",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Normal_1",
+    "module": "NordInvasion",
+    "map": "Port Assault",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Normal_2",
+    "module": "NordInvasion",
+    "map": "King's Reach",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Normal_3",
+    "module": "NordInvasion",
+    "map": "Swadian Temple",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Ragnarok_1",
+    "module": "NordInvasion",
+    "map": "Forgotten Bay",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Ragnarok_2",
+    "module": "NordInvasion",
+    "map": "Offshore",
+    "players": 0,
+    "max": 16
+  },
+  {
     "name": "NI_NA_Beginner_1",
     "module": "NordInvasion",
     "map": "Forgotten Bay",
@@ -35,7 +112,7 @@
     "max": 16
   },
   {
-    "name": "NI_NA_Cavalry_1",
+    "name": "NI_NA_Cavalry_1*",
     "module": "NordInvasion",
     "map": "Dills and Hills",
     "players": 2,
@@ -58,8 +135,8 @@
   {
     "name": "NI_NA_Normal_2",
     "module": "NordInvasion",
-    "map": "Coastal Raid",
-    "players": 5,
+    "map": "First Defence",
+    "players": 7,
     "max": 16
   },
   {
