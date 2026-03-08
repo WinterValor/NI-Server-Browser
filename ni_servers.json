@@ -37,7 +37,7 @@
   {
     "name": "NI_NA_Cavalry_1",
     "module": "NordInvasion",
-    "map": "Plains of Knudarr",
+    "map": "Dills and Hills",
     "players": 2,
     "max": 8
   },
@@ -58,8 +58,8 @@
   {
     "name": "NI_NA_Normal_2",
     "module": "NordInvasion",
-    "map": "Caravan Ambush",
-    "players": 2,
+    "map": "Coastal Raid",
+    "players": 5,
     "max": 16
   },
   {
