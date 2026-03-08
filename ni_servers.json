@@ -30,7 +30,7 @@
   {
     "name": "NI_EU_Beginner_1",
     "module": "NordInvasion",
-    "map": "Graubergen",
+    "map": "Swadian Outskirts",
     "players": 0,
     "max": 16
   },
@@ -42,14 +42,21 @@
     "max": 8
   },
   {
-    "name": "NI_EU_Cavalry_2*",
+    "name": "NI_EU_Cavalry_2",
     "module": "NordInvasion",
-    "map": "Medieval Fields",
-    "players": 4,
+    "map": "Beach Assault",
+    "players": 0,
     "max": 8
   },
   {
     "name": "NI_EU_Hard_1",
+    "module": "NordInvasion",
+    "map": "Lake Town",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Hard_2",
     "module": "NordInvasion",
     "map": "Lake Town",
     "players": 0,
@@ -91,6 +98,13 @@
     "max": 16
   },
   {
+    "name": "NI_EU_Ragnarok_2",
+    "module": "NordInvasion",
+    "map": "First Defence",
+    "players": 0,
+    "max": 16
+  },
+  {
     "name": "NI_NA_Beginner_1",
     "module": "NordInvasion",
     "map": "Forgotten Bay",
@@ -121,8 +135,8 @@
   {
     "name": "NI_NA_Normal_2",
     "module": "NordInvasion",
-    "map": "Swadian Castle",
-    "players": 2,
+    "map": "Swadian Citadel",
+    "players": 0,
     "max": 16
   },
   {
@@ -136,13 +150,6 @@
     "name": "NI_NA_Ragnarok_2",
     "module": "NordInvasion",
     "map": "Graubergen",
-    "players": 0,
-    "max": 16
-  },
-  {
-    "name": "NI_SD_DB_Event",
-    "module": "NordInvasion",
-    "map": "First Defence",
     "players": 0,
     "max": 16
   }
