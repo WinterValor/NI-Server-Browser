@@ -58,8 +58,8 @@
   {
     "name": "NI_NA_Normal_2",
     "module": "NordInvasion",
-    "map": "Nordic Village",
-    "players": 3,
+    "map": "Offshore",
+    "players": 2,
     "max": 16
   },
   {
