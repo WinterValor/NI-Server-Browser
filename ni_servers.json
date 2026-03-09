@@ -72,22 +72,22 @@
   {
     "name": "NI_EU_Normal_1",
     "module": "NordInvasion",
-    "map": "Port Assault",
-    "players": 7,
+    "map": "Swadian Temple",
+    "players": 3,
     "max": 16
   },
   {
     "name": "NI_EU_Normal_2",
     "module": "NordInvasion",
-    "map": "Hyper's Castle",
-    "players": 1,
+    "map": "Fortress Outskirts",
+    "players": 0,
     "max": 16
   },
   {
     "name": "NI_EU_Normal_3",
     "module": "NordInvasion",
-    "map": "Deathmatch 1",
-    "players": 2,
+    "map": "Fortress Outskirts",
+    "players": 0,
     "max": 16
   },
   {
