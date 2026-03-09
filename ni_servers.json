@@ -37,7 +37,7 @@
   {
     "name": "NI_EU_Beginner_1",
     "module": "NordInvasion",
-    "map": "Coastal Raid",
+    "map": "Swadian Outskirts",
     "players": 0,
     "max": 16
   },
@@ -65,8 +65,8 @@
   {
     "name": "NI_EU_Cavalry_2",
     "module": "NordInvasion",
-    "map": "Winter's Respite",
-    "players": 0,
+    "map": "Medieval Fields",
+    "players": 2,
     "max": 8
   },
   {
@@ -135,14 +135,7 @@
   {
     "name": "NI_EU_Normal_2",
     "module": "NordInvasion",
-    "map": "Coastal Raid",
-    "players": 6,
-    "max": 16
-  },
-  {
-    "name": "NI_EU_Normal_3",
-    "module": "NordInvasion",
-    "map": "Swadian Temple",
+    "map": "Swadian Mines",
     "players": 0,
     "max": 16
   },
@@ -151,6 +144,13 @@
     "module": "NordInvasion",
     "map": "Swadian Temple",
     "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Normal_3*",
+    "module": "NordInvasion",
+    "map": "Swadian Temple",
+    "players": 3,
     "max": 16
   },
   {
