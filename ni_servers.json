@@ -121,8 +121,8 @@
   {
     "name": "NI_EU_Normal_1",
     "module": "NordInvasion",
-    "map": "Port Assault",
-    "players": 0,
+    "map": "Swadian Temple",
+    "players": 4,
     "max": 16
   },
   {
