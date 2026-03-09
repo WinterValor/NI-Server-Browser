@@ -65,7 +65,7 @@
   {
     "name": "NI_EU_Cavalry_2",
     "module": "NordInvasion",
-    "map": "Medieval Fields",
+    "map": "Dills and Hills",
     "players": 2,
     "max": 8
   },
@@ -147,10 +147,10 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Normal_3*",
+    "name": "NI_EU_Normal_3",
     "module": "NordInvasion",
-    "map": "Swadian Temple",
-    "players": 3,
+    "map": "Swadian Overgrown",
+    "players": 0,
     "max": 16
   },
   {
