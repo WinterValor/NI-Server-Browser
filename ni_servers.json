@@ -65,8 +65,8 @@
   {
     "name": "NI_EU_Cavalry_2",
     "module": "NordInvasion",
-    "map": "Battle of Praven",
-    "players": 0,
+    "map": "Plains of Knudarr",
+    "players": 2,
     "max": 8
   },
   {
@@ -93,8 +93,8 @@
   {
     "name": "NI_EU_Hard_2",
     "module": "NordInvasion",
-    "map": "Lake Town",
-    "players": 1,
+    "map": "Forest Outpost",
+    "players": 0,
     "max": 16
   },
   {
@@ -136,7 +136,7 @@
     "name": "NI_EU_Normal_2",
     "module": "NordInvasion",
     "map": "Swadian Mines",
-    "players": 0,
+    "players": 1,
     "max": 16
   },
   {
