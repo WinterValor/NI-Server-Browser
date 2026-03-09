@@ -65,8 +65,8 @@
   {
     "name": "NI_EU_Cavalry_2",
     "module": "NordInvasion",
-    "map": "Dills and Hills",
-    "players": 2,
+    "map": "Battle of Praven",
+    "players": 0,
     "max": 8
   },
   {
@@ -93,8 +93,8 @@
   {
     "name": "NI_EU_Hard_2",
     "module": "NordInvasion",
-    "map": "Keancuop Forest",
-    "players": 0,
+    "map": "Lake Town",
+    "players": 1,
     "max": 16
   },
   {
