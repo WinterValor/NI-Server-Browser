@@ -37,8 +37,8 @@
   {
     "name": "NI_EU_Cavalry_1",
     "module": "NordInvasion",
-    "map": "Winter's Respite",
-    "players": 1,
+    "map": "Medieval Fields",
+    "players": 0,
     "max": 8
   },
   {
@@ -72,8 +72,8 @@
   {
     "name": "NI_EU_Normal_1",
     "module": "NordInvasion",
-    "map": "Port Assault",
-    "players": 5,
+    "map": "Swadian Temple",
+    "players": 2,
     "max": 16
   },
   {
