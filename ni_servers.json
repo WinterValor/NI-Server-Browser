@@ -9,8 +9,8 @@
   {
     "name": "NI_CN_Hard",
     "module": "NordInvasion",
-    "map": "King's Castleyard",
-    "players": 13,
+    "map": "Praven",
+    "players": 15,
     "max": 16
   },
   {
@@ -30,15 +30,15 @@
   {
     "name": "NI_EU_Beginner_1",
     "module": "NordInvasion",
-    "map": "Swadian Old Village",
+    "map": "Graubergen",
     "players": 0,
     "max": 16
   },
   {
     "name": "NI_EU_Beginner_1",
     "module": "NordInvasion",
-    "map": "Coastal Raid",
-    "players": 0,
+    "map": "Graubergen",
+    "players": 2,
     "max": 16
   },
   {
@@ -93,7 +93,7 @@
   {
     "name": "NI_EU_Hard_2",
     "module": "NordInvasion",
-    "map": "Nordic Fortress",
+    "map": "Swadian Great Hall",
     "players": 0,
     "max": 16
   },
@@ -114,14 +114,14 @@
   {
     "name": "NI_EU_Normal_1",
     "module": "NordInvasion",
-    "map": "Royal Observatory",
+    "map": "First Defence",
     "players": 0,
     "max": 16
   },
   {
     "name": "NI_EU_Normal_1",
     "module": "NordInvasion",
-    "map": "First Defence",
+    "map": "Royal Observatory",
     "players": 0,
     "max": 16
   },
