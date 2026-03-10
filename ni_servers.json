@@ -16,7 +16,7 @@
   {
     "name": "NI_CN_Normal",
     "module": "NordInvasion",
-    "map": "Swadian Temple",
+    "map": "Hidden Cave",
     "players": 0,
     "max": 16
   },
@@ -65,15 +65,15 @@
   {
     "name": "NI_EU_Hard_3",
     "module": "NordInvasion",
-    "map": "Forgotten Bay",
-    "players": 1,
+    "map": "Frosthaven",
+    "players": 0,
     "max": 16
   },
   {
     "name": "NI_EU_Normal_1",
     "module": "NordInvasion",
-    "map": "Hyper's Hell",
-    "players": 3,
+    "map": "Keancuop Forest",
+    "players": 2,
     "max": 16
   },
   {
