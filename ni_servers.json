@@ -9,8 +9,8 @@
   {
     "name": "NI_CN_Hard",
     "module": "NordInvasion",
-    "map": "Royal Observatory",
-    "players": 12,
+    "map": "Swadian Great Hall",
+    "players": 0,
     "max": 16
   },
   {
@@ -30,14 +30,14 @@
   {
     "name": "NI_EU_Beginner_1",
     "module": "NordInvasion",
-    "map": "Swadian Outskirts",
+    "map": "Graubergen",
     "players": 0,
     "max": 16
   },
   {
     "name": "NI_EU_Beginner_1",
     "module": "NordInvasion",
-    "map": "Graubergen",
+    "map": "Swadian Outskirts",
     "players": 0,
     "max": 16
   },
@@ -52,13 +52,6 @@
     "name": "NI_EU_Cavalry_1",
     "module": "NordInvasion",
     "map": "Beach Assault",
-    "players": 0,
-    "max": 8
-  },
-  {
-    "name": "NI_EU_Cavalry_2",
-    "module": "NordInvasion",
-    "map": "Winter's Respite",
     "players": 0,
     "max": 8
   },
@@ -87,14 +80,14 @@
     "name": "NI_EU_Hard_2",
     "module": "NordInvasion",
     "map": "Swadian Castle",
-    "players": 0,
+    "players": 3,
     "max": 16
   },
   {
     "name": "NI_EU_Hard_2",
     "module": "NordInvasion",
     "map": "Swadian Great Hall",
-    "players": 0,
+    "players": 16,
     "max": 16
   },
   {
@@ -147,20 +140,6 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Normal_3",
-    "module": "NordInvasion",
-    "map": "Swadian Temple",
-    "players": 0,
-    "max": 16
-  },
-  {
-    "name": "NI_EU_Ragnarok_1",
-    "module": "NordInvasion",
-    "map": "Frosthaven",
-    "players": 0,
-    "max": 16
-  },
-  {
     "name": "NI_EU_Ragnarok_1",
     "module": "NordInvasion",
     "map": "Frosthaven",
@@ -171,7 +150,7 @@
     "name": "NI_EU_Ragnarok_2",
     "module": "NordInvasion",
     "map": "Lake Town",
-    "players": 0,
+    "players": 1,
     "max": 16
   },
   {
