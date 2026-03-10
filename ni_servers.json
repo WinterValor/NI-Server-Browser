@@ -80,7 +80,7 @@
     "name": "NI_EU_Hard_1",
     "module": "NordInvasion",
     "map": "Lake Town",
-    "players": 0,
+    "players": 1,
     "max": 16
   },
   {
@@ -114,22 +114,22 @@
   {
     "name": "NI_EU_Normal_1",
     "module": "NordInvasion",
-    "map": "Port Assault",
+    "map": "First Defence",
     "players": 0,
     "max": 16
   },
   {
     "name": "NI_EU_Normal_1",
     "module": "NordInvasion",
-    "map": "First Defence",
+    "map": "Port Assault",
     "players": 0,
     "max": 16
   },
   {
     "name": "NI_EU_Normal_2",
     "module": "NordInvasion",
-    "map": "Hyper's Castle",
-    "players": 1,
+    "map": "Swadian Mines",
+    "players": 0,
     "max": 16
   },
   {
@@ -142,14 +142,14 @@
   {
     "name": "NI_EU_Normal_3",
     "module": "NordInvasion",
-    "map": "Fortress Outskirts",
+    "map": "Swadian Temple",
     "players": 0,
     "max": 16
   },
   {
     "name": "NI_EU_Normal_3",
     "module": "NordInvasion",
-    "map": "Swadian Temple",
+    "map": "Fortress Outskirts",
     "players": 0,
     "max": 16
   },
