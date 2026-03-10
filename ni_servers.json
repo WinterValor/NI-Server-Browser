@@ -9,8 +9,8 @@
   {
     "name": "NI_CN_Hard",
     "module": "NordInvasion",
-    "map": "Praven",
-    "players": 15,
+    "map": "Royal Observatory",
+    "players": 12,
     "max": 16
   },
   {
@@ -30,7 +30,7 @@
   {
     "name": "NI_EU_Beginner_1",
     "module": "NordInvasion",
-    "map": "Graubergen",
+    "map": "Swadian Outskirts",
     "players": 0,
     "max": 16
   },
@@ -38,7 +38,7 @@
     "name": "NI_EU_Beginner_1",
     "module": "NordInvasion",
     "map": "Graubergen",
-    "players": 2,
+    "players": 0,
     "max": 16
   },
   {
