@@ -44,14 +44,14 @@
   {
     "name": "NI_EU_Cavalry_1",
     "module": "NordInvasion",
-    "map": "Winter's Respite",
+    "map": "Battle of Praven",
     "players": 0,
     "max": 8
   },
   {
     "name": "NI_EU_Cavalry_1",
     "module": "NordInvasion",
-    "map": "Battle of Praven",
+    "map": "Winter's Respite",
     "players": 0,
     "max": 8
   },
@@ -80,13 +80,6 @@
     "name": "NI_EU_Hard_1",
     "module": "NordInvasion",
     "map": "Lake Town",
-    "players": 0,
-    "max": 16
-  },
-  {
-    "name": "NI_EU_Hard_2",
-    "module": "NordInvasion",
-    "map": "Keancuop Forest",
     "players": 0,
     "max": 16
   },
@@ -94,6 +87,13 @@
     "name": "NI_EU_Hard_2",
     "module": "NordInvasion",
     "map": "Nordic Fortress",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Hard_2",
+    "module": "NordInvasion",
+    "map": "Keancuop Forest",
     "players": 0,
     "max": 16
   },
