@@ -35,9 +35,30 @@
     "max": 16
   },
   {
+    "name": "NI_EU_Beginner_1",
+    "module": "NordInvasion",
+    "map": "Swadian Outskirts",
+    "players": 0,
+    "max": 16
+  },
+  {
     "name": "NI_EU_Cavalry_1",
     "module": "NordInvasion",
     "map": "Medieval Fields",
+    "players": 0,
+    "max": 8
+  },
+  {
+    "name": "NI_EU_Cavalry_1",
+    "module": "NordInvasion",
+    "map": "Beach Assault",
+    "players": 0,
+    "max": 8
+  },
+  {
+    "name": "NI_EU_Cavalry_2",
+    "module": "NordInvasion",
+    "map": "Winter's Respite",
     "players": 0,
     "max": 8
   },
@@ -56,6 +77,20 @@
     "max": 16
   },
   {
+    "name": "NI_EU_Hard_1",
+    "module": "NordInvasion",
+    "map": "Swadian Overgrown",
+    "players": 2,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Hard_2",
+    "module": "NordInvasion",
+    "map": "Hidden Farm",
+    "players": 0,
+    "max": 16
+  },
+  {
     "name": "NI_EU_Hard_2",
     "module": "NordInvasion",
     "map": "Hidden Farm",
@@ -66,13 +101,27 @@
     "name": "NI_EU_Hard_3",
     "module": "NordInvasion",
     "map": "Lake Town",
-    "players": 1,
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Hard_3",
+    "module": "NordInvasion",
+    "map": "Frosthaven",
+    "players": 0,
     "max": 16
   },
   {
     "name": "NI_EU_Normal_1",
     "module": "NordInvasion",
     "map": "Hande's Retreat",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Normal_1",
+    "module": "NordInvasion",
+    "map": "Royal Observatory",
     "players": 0,
     "max": 16
   },
@@ -84,9 +133,23 @@
     "max": 16
   },
   {
+    "name": "NI_EU_Normal_2",
+    "module": "NordInvasion",
+    "map": "Swadian Mines",
+    "players": 0,
+    "max": 16
+  },
+  {
     "name": "NI_EU_Normal_3",
     "module": "NordInvasion",
     "map": "Offshore",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Normal_3",
+    "module": "NordInvasion",
+    "map": "Swadian Temple",
     "players": 0,
     "max": 16
   },
@@ -101,6 +164,13 @@
     "name": "NI_EU_Ragnarok_2",
     "module": "NordInvasion",
     "map": "Frosthaven",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Ragnarok_2",
+    "module": "NordInvasion",
+    "map": "Lake Town",
     "players": 0,
     "max": 16
   }
