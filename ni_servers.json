@@ -70,9 +70,9 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Normal_1",
+    "name": "NI_EU_Normal_1*",
     "module": "NordInvasion",
-    "map": "Keancuop Forest",
+    "map": "Swadian Lighthouse",
     "players": 2,
     "max": 16
   },
