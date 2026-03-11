@@ -56,10 +56,10 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Hard_2*",
+    "name": "NI_EU_Hard_2",
     "module": "NordInvasion",
-    "map": "Frosthaven",
-    "players": 3,
+    "map": "Praven",
+    "players": 1,
     "max": 16
   },
   {
@@ -79,8 +79,8 @@
   {
     "name": "NI_EU_Normal_2",
     "module": "NordInvasion",
-    "map": "Fortress Under Siege",
-    "players": 0,
+    "map": "Lake Town",
+    "players": 1,
     "max": 16
   },
   {
@@ -91,10 +91,10 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Ragnarok_1*",
+    "name": "NI_EU_Ragnarok_1",
     "module": "NordInvasion",
-    "map": "Swadian Citadel",
-    "players": 16,
+    "map": "Fortress Under Siege",
+    "players": 13,
     "max": 16
   },
   {
