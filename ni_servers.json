@@ -51,15 +51,15 @@
   {
     "name": "NI_EU_Hard_1",
     "module": "NordInvasion",
-    "map": "Hidden Cave",
-    "players": 3,
+    "map": "Swadian Old Village",
+    "players": 0,
     "max": 16
   },
   {
-    "name": "NI_EU_Hard_2",
+    "name": "NI_EU_Hard_2*",
     "module": "NordInvasion",
-    "map": "Hidden Farm",
-    "players": 0,
+    "map": "Frosthaven",
+    "players": 3,
     "max": 16
   },
   {
@@ -91,10 +91,10 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Ragnarok_1",
+    "name": "NI_EU_Ragnarok_1*",
     "module": "NordInvasion",
     "map": "Swadian Citadel",
-    "players": 15,
+    "players": 16,
     "max": 16
   },
   {
