@@ -10,7 +10,7 @@
     "name": "NI_CN_Hard",
     "module": "NordInvasion",
     "map": "Coastal Raid",
-    "players": 0,
+    "players": 16,
     "max": 16
   },
   {
@@ -38,7 +38,7 @@
     "name": "NI_EU_Cavalry_1",
     "module": "NordInvasion",
     "map": "Backwood Raid",
-    "players": 1,
+    "players": 0,
     "max": 8
   },
   {
@@ -72,14 +72,14 @@
   {
     "name": "NI_EU_Normal_1",
     "module": "NordInvasion",
-    "map": "Traders' Valley",
+    "map": "Fortress Outskirts",
     "players": 0,
     "max": 16
   },
   {
     "name": "NI_EU_Normal_2",
     "module": "NordInvasion",
-    "map": "Nordic Fortress",
+    "map": "Fortress Under Siege",
     "players": 0,
     "max": 16
   },
@@ -95,13 +95,6 @@
     "module": "NordInvasion",
     "map": "Port Assault",
     "players": 0,
-    "max": 16
-  },
-  {
-    "name": "NI_EU_Ragnarok_1",
-    "module": "NordInvasion",
-    "map": "Swadian Overgrown",
-    "players": 15,
     "max": 16
   },
   {
