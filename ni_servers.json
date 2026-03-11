@@ -16,7 +16,7 @@
   {
     "name": "NI_CN_Normal",
     "module": "NordInvasion",
-    "map": "Hidden Cave",
+    "map": "Swadian Folly",
     "players": 0,
     "max": 16
   },
@@ -35,9 +35,23 @@
     "max": 16
   },
   {
+    "name": "NI_EU_Beginner_1",
+    "module": "NordInvasion",
+    "map": "Swadian Outskirts",
+    "players": 0,
+    "max": 16
+  },
+  {
     "name": "NI_EU_Cavalry_1",
     "module": "NordInvasion",
     "map": "Medieval Fields",
+    "players": 0,
+    "max": 8
+  },
+  {
+    "name": "NI_EU_Cavalry_1",
+    "module": "NordInvasion",
+    "map": "Battle of Praven",
     "players": 0,
     "max": 8
   },
@@ -47,6 +61,20 @@
     "map": "Winter's Respite",
     "players": 0,
     "max": 8
+  },
+  {
+    "name": "NI_EU_Cavalry_2",
+    "module": "NordInvasion",
+    "map": "Winter's Respite",
+    "players": 0,
+    "max": 8
+  },
+  {
+    "name": "NI_EU_Hard_1",
+    "module": "NordInvasion",
+    "map": "Hidden Cave",
+    "players": 2,
+    "max": 16
   },
   {
     "name": "NI_EU_Hard_1",
@@ -63,6 +91,20 @@
     "max": 16
   },
   {
+    "name": "NI_EU_Hard_2",
+    "module": "NordInvasion",
+    "map": "Hidden Farm",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Hard_3",
+    "module": "NordInvasion",
+    "map": "Fortress Outskirts",
+    "players": 0,
+    "max": 16
+  },
+  {
     "name": "NI_EU_Hard_3",
     "module": "NordInvasion",
     "map": "Frosthaven",
@@ -70,16 +112,30 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Normal_1*",
+    "name": "NI_EU_Normal_1",
     "module": "NordInvasion",
-    "map": "Swadian Lighthouse",
-    "players": 2,
+    "map": "King's Castleyard",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Normal_1",
+    "module": "NordInvasion",
+    "map": "Royal Observatory",
+    "players": 0,
     "max": 16
   },
   {
     "name": "NI_EU_Normal_2",
     "module": "NordInvasion",
-    "map": "Mountain Pass",
+    "map": "Nordic Fortress",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Normal_2",
+    "module": "NordInvasion",
+    "map": "Forest Outpost",
     "players": 0,
     "max": 16
   },
@@ -91,7 +147,21 @@
     "max": 16
   },
   {
+    "name": "NI_EU_Normal_3",
+    "module": "NordInvasion",
+    "map": "Swadian Overgrown",
+    "players": 0,
+    "max": 16
+  },
+  {
     "name": "NI_EU_Ragnarok_1",
+    "module": "NordInvasion",
+    "map": "Port Assault",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Ragnarok_2",
     "module": "NordInvasion",
     "map": "Frosthaven",
     "players": 0,
@@ -100,7 +170,56 @@
   {
     "name": "NI_EU_Ragnarok_2",
     "module": "NordInvasion",
-    "map": "Frosthaven",
+    "map": "Lake Town",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_NA_Beginner_1",
+    "module": "NordInvasion",
+    "map": "Coastal Raid",
+    "players": 1,
+    "max": 16
+  },
+  {
+    "name": "NI_NA_Cavalry_1",
+    "module": "NordInvasion",
+    "map": "Battle of Praven",
+    "players": 3,
+    "max": 8
+  },
+  {
+    "name": "NI_NA_Hard_2",
+    "module": "NordInvasion",
+    "map": "Nordic Fortress",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_NA_Normal_1",
+    "module": "NordInvasion",
+    "map": "Caravan Ambush",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_NA_Normal_2",
+    "module": "NordInvasion",
+    "map": "Caravan Ambush",
+    "players": 1,
+    "max": 16
+  },
+  {
+    "name": "NI_NA_Ragnarok_1",
+    "module": "NordInvasion",
+    "map": "Nordic Fortress",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_NA_Ragnarok_2",
+    "module": "NordInvasion",
+    "map": "Nordic Fortress",
     "players": 0,
     "max": 16
   }
