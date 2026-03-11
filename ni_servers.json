@@ -72,14 +72,14 @@
   {
     "name": "NI_EU_Hard_1",
     "module": "NordInvasion",
-    "map": "Swadian Temple",
+    "map": "Lake Town",
     "players": 0,
     "max": 16
   },
   {
     "name": "NI_EU_Hard_1",
     "module": "NordInvasion",
-    "map": "Lake Town",
+    "map": "Swadian Temple",
     "players": 0,
     "max": 16
   },
@@ -115,7 +115,7 @@
     "name": "NI_EU_Normal_1",
     "module": "NordInvasion",
     "map": "King's Castleyard",
-    "players": 0,
+    "players": 1,
     "max": 16
   },
   {
@@ -142,14 +142,14 @@
   {
     "name": "NI_EU_Normal_3",
     "module": "NordInvasion",
-    "map": "Swadian Temple",
+    "map": "Swadian City",
     "players": 0,
     "max": 16
   },
   {
     "name": "NI_EU_Normal_3",
     "module": "NordInvasion",
-    "map": "Swadian City",
+    "map": "Swadian Temple",
     "players": 0,
     "max": 16
   },
