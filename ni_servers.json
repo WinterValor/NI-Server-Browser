@@ -9,14 +9,14 @@
   {
     "name": "NI_CN_Hard",
     "module": "NordInvasion",
-    "map": "Swadian Lighthouse",
+    "map": "Coastal Raid",
     "players": 0,
     "max": 16
   },
   {
     "name": "NI_CN_Normal",
     "module": "NordInvasion",
-    "map": "Forgotten Bay",
+    "map": "Swadian Temple",
     "players": 0,
     "max": 16
   },
@@ -51,8 +51,8 @@
   {
     "name": "NI_EU_Hard_1",
     "module": "NordInvasion",
-    "map": "Old Shire",
-    "players": 3,
+    "map": "Forgotten Bay",
+    "players": 0,
     "max": 16
   },
   {
@@ -66,7 +66,7 @@
     "name": "NI_EU_Hard_3",
     "module": "NordInvasion",
     "map": "Fortress Outskirts",
-    "players": 0,
+    "players": 1,
     "max": 16
   },
   {
@@ -93,8 +93,8 @@
   {
     "name": "NI_EU_Ragnarok_1",
     "module": "NordInvasion",
-    "map": "Coastal Raid",
-    "players": 18,
+    "map": "Forgotten Bay",
+    "players": 16,
     "max": 16
   },
   {
