@@ -114,8 +114,8 @@
   {
     "name": "NI_EU_Normal_1",
     "module": "NordInvasion",
-    "map": "King's Castleyard",
-    "players": 1,
+    "map": "Swadian Overgrown",
+    "players": 0,
     "max": 16
   },
   {
