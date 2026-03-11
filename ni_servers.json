@@ -51,8 +51,8 @@
   {
     "name": "NI_EU_Hard_1",
     "module": "NordInvasion",
-    "map": "Swadian City",
-    "players": 8,
+    "map": "Hidden Cave",
+    "players": 3,
     "max": 16
   },
   {
@@ -93,8 +93,8 @@
   {
     "name": "NI_EU_Ragnarok_1",
     "module": "NordInvasion",
-    "map": "Swadian Overgrown",
-    "players": 17,
+    "map": "Swadian Citadel",
+    "players": 15,
     "max": 16
   },
   {
