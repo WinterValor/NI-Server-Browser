@@ -72,14 +72,14 @@
   {
     "name": "NI_EU_Hard_1",
     "module": "NordInvasion",
-    "map": "Hidden Cave",
-    "players": 2,
+    "map": "Swadian Temple",
+    "players": 0,
     "max": 16
   },
   {
     "name": "NI_EU_Hard_1",
     "module": "NordInvasion",
-    "map": "Swadian Temple",
+    "map": "Swadian Old Village",
     "players": 0,
     "max": 16
   },
@@ -177,15 +177,15 @@
   {
     "name": "NI_NA_Beginner_1",
     "module": "NordInvasion",
-    "map": "Coastal Raid",
-    "players": 1,
+    "map": "Caravan Ambush",
+    "players": 0,
     "max": 16
   },
   {
     "name": "NI_NA_Cavalry_1",
     "module": "NordInvasion",
     "map": "Battle of Praven",
-    "players": 3,
+    "players": 0,
     "max": 8
   },
   {
@@ -199,14 +199,14 @@
     "name": "NI_NA_Normal_1",
     "module": "NordInvasion",
     "map": "Caravan Ambush",
-    "players": 0,
+    "players": 1,
     "max": 16
   },
   {
     "name": "NI_NA_Normal_2",
     "module": "NordInvasion",
     "map": "Caravan Ambush",
-    "players": 1,
+    "players": 0,
     "max": 16
   },
   {
