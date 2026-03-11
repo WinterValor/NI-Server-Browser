@@ -30,8 +30,8 @@
   {
     "name": "NI_EU_Beginner_1",
     "module": "NordInvasion",
-    "map": "Offshore",
-    "players": 2,
+    "map": "Hande's Retreat",
+    "players": 3,
     "max": 16
   },
   {
@@ -91,10 +91,10 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Ragnarok_1",
+    "name": "NI_EU_Ragnarok_1*",
     "module": "NordInvasion",
     "map": "Old Shire",
-    "players": 14,
+    "players": 16,
     "max": 16
   },
   {
