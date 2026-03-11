@@ -114,15 +114,15 @@
   {
     "name": "NI_EU_Normal_1",
     "module": "NordInvasion",
-    "map": "Port Assault",
+    "map": "Swadian Citadel",
     "players": 0,
     "max": 16
   },
   {
     "name": "NI_EU_Normal_1",
     "module": "NordInvasion",
-    "map": "Swadian Overgrown",
-    "players": 1,
+    "map": "Port Assault",
+    "players": 0,
     "max": 16
   },
   {
@@ -149,7 +149,7 @@
   {
     "name": "NI_EU_Normal_3",
     "module": "NordInvasion",
-    "map": "Swadian Lighthouse",
+    "map": "Offshore",
     "players": 0,
     "max": 16
   },
