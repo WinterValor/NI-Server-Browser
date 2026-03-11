@@ -30,7 +30,7 @@
   {
     "name": "NI_EU_Beginner_1",
     "module": "NordInvasion",
-    "map": "Graubergen",
+    "map": "Swadian Outskirts",
     "players": 0,
     "max": 16
   },
@@ -114,15 +114,15 @@
   {
     "name": "NI_EU_Normal_1",
     "module": "NordInvasion",
-    "map": "Swadian Overgrown",
+    "map": "Port Assault",
     "players": 0,
     "max": 16
   },
   {
     "name": "NI_EU_Normal_1",
     "module": "NordInvasion",
-    "map": "Port Assault",
-    "players": 0,
+    "map": "Swadian Overgrown",
+    "players": 1,
     "max": 16
   },
   {
@@ -149,7 +149,7 @@
   {
     "name": "NI_EU_Normal_3",
     "module": "NordInvasion",
-    "map": "Swadian Temple",
+    "map": "Swadian Lighthouse",
     "players": 0,
     "max": 16
   },
