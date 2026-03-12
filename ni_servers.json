@@ -28,6 +28,13 @@
     "max": 16
   },
   {
+    "name": "NI_EU_Beginner_1",
+    "module": "NordInvasion",
+    "map": "Praven",
+    "players": 0,
+    "max": 16
+  },
+  {
     "name": "NI_EU_Cavalry_1",
     "module": "NordInvasion",
     "map": "Swadian Night Raid",
@@ -38,8 +45,15 @@
     "name": "NI_EU_Cavalry_2",
     "module": "NordInvasion",
     "map": "Winter's Respite",
-    "players": 0,
+    "players": 1,
     "max": 8
+  },
+  {
+    "name": "NI_EU_Hard_1",
+    "module": "NordInvasion",
+    "map": "Fortress Outskirts",
+    "players": 0,
+    "max": 16
   },
   {
     "name": "NI_EU_Hard_2",
@@ -49,9 +63,23 @@
     "max": 16
   },
   {
+    "name": "NI_EU_Hard_3",
+    "module": "NordInvasion",
+    "map": "Fortress Outskirts",
+    "players": 0,
+    "max": 16
+  },
+  {
     "name": "NI_EU_Normal_1",
     "module": "NordInvasion",
     "map": "Port Assault",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Normal_2",
+    "module": "NordInvasion",
+    "map": "Lake Town",
     "players": 0,
     "max": 16
   },
@@ -65,8 +93,15 @@
   {
     "name": "NI_EU_Ragnarok_1",
     "module": "NordInvasion",
-    "map": "Offshore",
-    "players": 15,
+    "map": "Hidden Cave",
+    "players": 3,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Ragnarok_2",
+    "module": "NordInvasion",
+    "map": "Swadian Castle",
+    "players": 0,
     "max": 16
   },
   {
