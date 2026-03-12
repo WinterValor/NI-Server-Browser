@@ -7,13 +7,6 @@
     "max": 8
   },
   {
-    "name": "NI_CN_Hard",
-    "module": "NordInvasion",
-    "map": "Coastal Raid",
-    "players": 0,
-    "max": 16
-  },
-  {
     "name": "NI_CN_Normal",
     "module": "NordInvasion",
     "map": "Hidden Cave",
@@ -28,18 +21,18 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Beginner_1",
+    "name": "NI_EU_Cavalry_2",
     "module": "NordInvasion",
-    "map": "Praven",
-    "players": 0,
-    "max": 16
-  },
-  {
-    "name": "NI_EU_Cavalry_1",
-    "module": "NordInvasion",
-    "map": "Swadian Night Raid",
+    "map": "Winter's Respite",
     "players": 0,
     "max": 8
+  },
+  {
+    "name": "NI_EU_Hard_1",
+    "module": "NordInvasion",
+    "map": "Fortress Outskirts",
+    "players": 0,
+    "max": 16
   },
   {
     "name": "NI_EU_Hard_2",
@@ -49,16 +42,16 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Normal_1",
+    "name": "NI_EU_Hard_3",
     "module": "NordInvasion",
-    "map": "Port Assault",
+    "map": "Fortress Outskirts",
     "players": 0,
     "max": 16
   },
   {
-    "name": "NI_EU_Normal_2",
+    "name": "NI_EU_Normal_1",
     "module": "NordInvasion",
-    "map": "Lake Town",
+    "map": "Port Assault",
     "players": 0,
     "max": 16
   },
