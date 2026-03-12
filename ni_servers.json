@@ -35,30 +35,23 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Cavalry_2",
+    "name": "NI_EU_Hard_1",
     "module": "NordInvasion",
-    "map": "Winter's Respite",
-    "players": 0,
-    "max": 8
-  },
-  {
-    "name": "NI_EU_Hard_2",
-    "module": "NordInvasion",
-    "map": "Mountain Pass",
-    "players": 2,
+    "map": "Swadian Overgrown",
+    "players": 12,
     "max": 16
   },
   {
-    "name": "NI_EU_Normal_1",
+    "name": "NI_EU_Hard_2",
     "module": "NordInvasion",
     "map": "Port Assault",
     "players": 0,
     "max": 16
   },
   {
-    "name": "NI_EU_Ragnarok_1",
+    "name": "NI_EU_Ragnarok_2",
     "module": "NordInvasion",
-    "map": "Hyper's Castle",
+    "map": "Lake Town",
     "players": 0,
     "max": 16
   },
