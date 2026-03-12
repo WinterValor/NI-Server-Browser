@@ -30,7 +30,7 @@
   {
     "name": "NI_EU_Beginner_1",
     "module": "NordInvasion",
-    "map": "Hande's Retreat",
+    "map": "Hidden Cave",
     "players": 3,
     "max": 16
   },
@@ -91,10 +91,10 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Ragnarok_1*",
+    "name": "NI_EU_Ragnarok_1",
     "module": "NordInvasion",
-    "map": "Old Shire",
-    "players": 16,
+    "map": "Swadian City",
+    "players": 14,
     "max": 16
   },
   {
