@@ -28,13 +28,6 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Beginner_1",
-    "module": "NordInvasion",
-    "map": "Praven",
-    "players": 0,
-    "max": 16
-  },
-  {
     "name": "NI_EU_Cavalry_1",
     "module": "NordInvasion",
     "map": "Swadian Night Raid",
@@ -42,9 +35,9 @@
     "max": 8
   },
   {
-    "name": "NI_EU_Hard_1",
+    "name": "NI_EU_Hard_2",
     "module": "NordInvasion",
-    "map": "Fortress Outskirts",
+    "map": "Offshore",
     "players": 0,
     "max": 16
   },
@@ -56,16 +49,23 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Normal_2",
+    "name": "NI_EU_Normal_3",
     "module": "NordInvasion",
-    "map": "Lake Town",
+    "map": "Caravan Ambush",
     "players": 0,
     "max": 16
   },
   {
-    "name": "NI_EU_Ragnarok_2",
+    "name": "NI_EU_Official_Event*",
     "module": "NordInvasion",
-    "map": "Swadian Castle",
+    "map": "King's Castleyard",
+    "players": 18,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Ragnarok_1",
+    "module": "NordInvasion",
+    "map": "Traders' Valley",
     "players": 0,
     "max": 16
   },
@@ -100,8 +100,8 @@
   {
     "name": "NI_NA_Normal_2",
     "module": "NordInvasion",
-    "map": "Forest Outpost",
-    "players": 0,
+    "map": "Fortress Outskirts",
+    "players": 1,
     "max": 16
   },
   {
