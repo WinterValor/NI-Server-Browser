@@ -28,6 +28,13 @@
     "max": 16
   },
   {
+    "name": "NI_EU_Cavalry_1",
+    "module": "NordInvasion",
+    "map": "Swadian Night Raid",
+    "players": 0,
+    "max": 8
+  },
+  {
     "name": "NI_EU_Cavalry_2",
     "module": "NordInvasion",
     "map": "Winter's Respite",
@@ -42,6 +49,13 @@
     "max": 16
   },
   {
+    "name": "NI_EU_Normal_1",
+    "module": "NordInvasion",
+    "map": "Port Assault",
+    "players": 0,
+    "max": 16
+  },
+  {
     "name": "NI_EU_Normal_3",
     "module": "NordInvasion",
     "map": "Caravan Ambush",
@@ -51,8 +65,8 @@
   {
     "name": "NI_EU_Ragnarok_1",
     "module": "NordInvasion",
-    "map": "Swadian Outskirts",
-    "players": 0,
+    "map": "Offshore",
+    "players": 15,
     "max": 16
   },
   {
