@@ -70,10 +70,10 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Normal_1",
+    "name": "NI_EU_Normal_1*",
     "module": "NordInvasion",
     "map": "Fortress Under Siege",
-    "players": 0,
+    "players": 1,
     "max": 16
   },
   {
@@ -86,8 +86,8 @@
   {
     "name": "NI_EU_Normal_3",
     "module": "NordInvasion",
-    "map": "Swadian Overgrown",
-    "players": 1,
+    "map": "Caravan Ambush",
+    "players": 0,
     "max": 16
   },
   {
