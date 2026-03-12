@@ -52,7 +52,7 @@
     "name": "NI_EU_Hard_1",
     "module": "NordInvasion",
     "map": "Swadian Old Village",
-    "players": 0,
+    "players": 10,
     "max": 16
   },
   {
@@ -70,10 +70,10 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Normal_1*",
+    "name": "NI_EU_Normal_1",
     "module": "NordInvasion",
-    "map": "Fortress Under Siege",
-    "players": 1,
+    "map": "Port Assault",
+    "players": 0,
     "max": 16
   },
   {
