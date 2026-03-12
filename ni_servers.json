@@ -7,16 +7,16 @@
     "max": 8
   },
   {
-    "name": "NI_CN_Hard",
+    "name": "NI_CN_Normal",
     "module": "NordInvasion",
-    "map": "Coastal Raid",
+    "map": "Hidden Cave",
     "players": 0,
     "max": 16
   },
   {
-    "name": "NI_CN_Normal",
+    "name": "NI_CN_Ragnarok",
     "module": "NordInvasion",
-    "map": "Hidden Cave",
+    "map": "Forgotten Bay",
     "players": 0,
     "max": 16
   },
