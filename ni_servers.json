@@ -51,8 +51,8 @@
   {
     "name": "NI_EU_Hard_1",
     "module": "NordInvasion",
-    "map": "Fortress Outskirts",
-    "players": 2,
+    "map": "Yalen Retreat",
+    "players": 0,
     "max": 16
   },
   {
@@ -72,7 +72,7 @@
   {
     "name": "NI_EU_Normal_1",
     "module": "NordInvasion",
-    "map": "Royal Observatory",
+    "map": "Swadian Temple",
     "players": 0,
     "max": 16
   },
@@ -86,8 +86,8 @@
   {
     "name": "NI_EU_Normal_3",
     "module": "NordInvasion",
-    "map": "Offshore",
-    "players": 3,
+    "map": "Swadian Overgrown",
+    "players": 0,
     "max": 16
   },
   {
@@ -112,10 +112,10 @@
     "max": 16
   },
   {
-    "name": "NI_NA_Cavalry_1",
+    "name": "NI_NA_Cavalry_1*",
     "module": "NordInvasion",
     "map": "Beach Assault",
-    "players": 0,
+    "players": 3,
     "max": 8
   },
   {
@@ -149,7 +149,7 @@
   {
     "name": "NI_NA_Ragnarok_2",
     "module": "NordInvasion",
-    "map": "Swadian Temple",
+    "map": "Hidden Cave",
     "players": 0,
     "max": 16
   }
