@@ -30,15 +30,15 @@
   {
     "name": "NI_EU_Beginner_1",
     "module": "NordInvasion",
-    "map": "Praven",
+    "map": "Forest Outpost",
     "players": 0,
     "max": 16
   },
   {
     "name": "NI_EU_Cavalry_1",
     "module": "NordInvasion",
-    "map": "Medieval Fields",
-    "players": 0,
+    "map": "Beach Assault",
+    "players": 2,
     "max": 8
   },
   {
@@ -56,16 +56,30 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Hard_2*",
+    "name": "NI_EU_Hard_2",
     "module": "NordInvasion",
-    "map": "Swadian City",
-    "players": 12,
+    "map": "Swadian Overgrown",
+    "players": 0,
     "max": 16
   },
   {
-    "name": "NI_EU_Ragnarok_2",
+    "name": "NI_EU_Normal_1*",
     "module": "NordInvasion",
-    "map": "Port Assault",
+    "map": "Forgotten Bay",
+    "players": 5,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Normal_2",
+    "module": "NordInvasion",
+    "map": "Mountain Pass",
+    "players": 1,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Ragnarok_1",
+    "module": "NordInvasion",
+    "map": "Old Shire",
     "players": 0,
     "max": 16
   },
@@ -115,7 +129,7 @@
     "name": "NI_SD_DB_Event",
     "module": "NordInvasion",
     "map": "Hyper's Hell",
-    "players": 12,
+    "players": 15,
     "max": 16
   }
 ]
