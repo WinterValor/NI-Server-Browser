@@ -21,20 +21,6 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Beginner_1",
-    "module": "NordInvasion",
-    "map": "Swadian Overgrown",
-    "players": 0,
-    "max": 16
-  },
-  {
-    "name": "NI_EU_Cavalry_1",
-    "module": "NordInvasion",
-    "map": "Winter's Respite",
-    "players": 1,
-    "max": 8
-  },
-  {
     "name": "NI_EU_Cavalry_2",
     "module": "NordInvasion",
     "map": "Medieval Fields",
@@ -42,23 +28,9 @@
     "max": 8
   },
   {
-    "name": "NI_EU_Hard_1",
-    "module": "NordInvasion",
-    "map": "Swadian Lighthouse",
-    "players": 0,
-    "max": 16
-  },
-  {
     "name": "NI_EU_Hard_2",
     "module": "NordInvasion",
     "map": "Coastal Raid",
-    "players": 0,
-    "max": 16
-  },
-  {
-    "name": "NI_EU_Hard_3",
-    "module": "NordInvasion",
-    "map": "Fortress Outskirts",
     "players": 0,
     "max": 16
   },
@@ -70,24 +42,10 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Normal_2",
-    "module": "NordInvasion",
-    "map": "Mountain Pass",
-    "players": 0,
-    "max": 16
-  },
-  {
     "name": "NI_EU_Ragnarok_1",
     "module": "NordInvasion",
-    "map": "Swadian Citadel",
-    "players": 16,
-    "max": 16
-  },
-  {
-    "name": "NI_EU_Ragnarok_2",
-    "module": "NordInvasion",
-    "map": "Swadian Castle",
-    "players": 0,
+    "map": "Yalen Retreat",
+    "players": 13,
     "max": 16
   },
   {
@@ -136,7 +94,7 @@
     "name": "NI_SD_DB_Event",
     "module": "NordInvasion",
     "map": "Hyper's Hell",
-    "players": 0,
+    "players": 10,
     "max": 16
   }
 ]
