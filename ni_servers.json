@@ -7,16 +7,23 @@
     "max": 8
   },
   {
-    "name": "NI_CN_Normal",
+    "name": "NI_CN_Hard",
     "module": "NordInvasion",
     "map": "Frosthaven",
-    "players": 16,
+    "players": 17,
     "max": 16
   },
   {
     "name": "NI_CN_Ragnarok",
     "module": "NordInvasion",
     "map": "Forgotten Bay",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Beginner_1",
+    "module": "NordInvasion",
+    "map": "Hidden Cave",
     "players": 0,
     "max": 16
   },
@@ -28,9 +35,30 @@
     "max": 8
   },
   {
+    "name": "NI_EU_Cavalry_2",
+    "module": "NordInvasion",
+    "map": "Medieval Fields",
+    "players": 0,
+    "max": 8
+  },
+  {
+    "name": "NI_EU_Hard_1",
+    "module": "NordInvasion",
+    "map": "Yalen Retreat",
+    "players": 0,
+    "max": 16
+  },
+  {
     "name": "NI_EU_Hard_2",
     "module": "NordInvasion",
     "map": "Caravan Ambush",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Hard_3",
+    "module": "NordInvasion",
+    "map": "Frosthaven",
     "players": 0,
     "max": 16
   },
@@ -44,14 +72,28 @@
   {
     "name": "NI_EU_Normal_2",
     "module": "NordInvasion",
-    "map": "Swadian Overgrown",
+    "map": "Mountain Pass",
     "players": 0,
     "max": 16
   },
   {
-    "name": "NI_EU_Ragnarok_2*",
+    "name": "NI_EU_Normal_3",
     "module": "NordInvasion",
-    "map": "Lake Town",
+    "map": "Old Shire",
+    "players": 1,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Ragnarok_1",
+    "module": "NordInvasion",
+    "map": "Frosthaven",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Ragnarok_2",
+    "module": "NordInvasion",
+    "map": "Fortress Under Siege",
     "players": 17,
     "max": 16
   },
