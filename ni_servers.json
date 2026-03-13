@@ -38,14 +38,7 @@
     "name": "NI_EU_Cavalry_1",
     "module": "NordInvasion",
     "map": "Dills and Hills",
-    "players": 0,
-    "max": 8
-  },
-  {
-    "name": "NI_EU_Cavalry_2",
-    "module": "NordInvasion",
-    "map": "Dills and Hills",
-    "players": 0,
+    "players": 1,
     "max": 8
   },
   {
@@ -80,20 +73,13 @@
     "name": "NI_EU_Normal_2",
     "module": "NordInvasion",
     "map": "Nordic Fortress",
-    "players": 0,
+    "players": 1,
     "max": 16
   },
   {
     "name": "NI_EU_Normal_3",
     "module": "NordInvasion",
     "map": "Nordic Village",
-    "players": 0,
-    "max": 16
-  },
-  {
-    "name": "NI_EU_Ragnarok_1",
-    "module": "NordInvasion",
-    "map": "Hidden Farm",
     "players": 0,
     "max": 16
   },
@@ -142,7 +128,7 @@
   {
     "name": "NI_NA_Ragnarok_2",
     "module": "NordInvasion",
-    "map": "Senuzgda Cavern",
+    "map": "Swadian Old Village",
     "players": 0,
     "max": 16
   },
@@ -150,7 +136,7 @@
     "name": "NI_SH_VM_Event",
     "module": "NordInvasion",
     "map": "Port Assault",
-    "players": 13,
+    "players": 14,
     "max": 16
   }
 ]
