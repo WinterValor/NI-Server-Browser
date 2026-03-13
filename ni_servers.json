@@ -21,16 +21,30 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Cavalry_2",
+    "name": "NI_EU_Beginner_1",
+    "module": "NordInvasion",
+    "map": "Fortress Outskirts",
+    "players": 1,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Cavalry_1",
     "module": "NordInvasion",
     "map": "Medieval Fields",
     "players": 0,
     "max": 8
   },
   {
-    "name": "NI_EU_Hard_2",
+    "name": "NI_EU_Hard_1",
     "module": "NordInvasion",
-    "map": "Coastal Raid",
+    "map": "Swadian Lighthouse",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Hard_3",
+    "module": "NordInvasion",
+    "map": "Royal Observatory",
     "players": 0,
     "max": 16
   },
@@ -42,10 +56,10 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Ragnarok_1",
+    "name": "NI_EU_Normal_2",
     "module": "NordInvasion",
-    "map": "Yalen Retreat",
-    "players": 13,
+    "map": "Mountain Pass",
+    "players": 0,
     "max": 16
   },
   {
@@ -72,7 +86,7 @@
   {
     "name": "NI_NA_Normal_1",
     "module": "NordInvasion",
-    "map": "First Defence",
+    "map": "Forest Outpost",
     "players": 0,
     "max": 16
   },
@@ -88,13 +102,6 @@
     "module": "NordInvasion",
     "map": "Hidden Cave",
     "players": 0,
-    "max": 16
-  },
-  {
-    "name": "NI_SD_DB_Event",
-    "module": "NordInvasion",
-    "map": "Hyper's Hell",
-    "players": 10,
     "max": 16
   }
 ]
