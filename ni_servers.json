@@ -59,7 +59,7 @@
     "name": "NI_EU_Hard_2",
     "module": "NordInvasion",
     "map": "Port Assault",
-    "players": 0,
+    "players": 9,
     "max": 16
   },
   {
@@ -79,8 +79,8 @@
   {
     "name": "NI_EU_Normal_2",
     "module": "NordInvasion",
-    "map": "Coastal Raid",
-    "players": 4,
+    "map": "King's Reach",
+    "players": 0,
     "max": 16
   },
   {
