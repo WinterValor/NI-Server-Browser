@@ -9,7 +9,14 @@
   {
     "name": "NI_CN_Hard",
     "module": "NordInvasion",
-    "map": "Royal Observatory",
+    "map": "Coastal Raid",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_CN_Normal",
+    "module": "NordInvasion",
+    "map": "Swadian Temple",
     "players": 0,
     "max": 16
   },
@@ -23,7 +30,7 @@
   {
     "name": "NI_EU_Beginner_1",
     "module": "NordInvasion",
-    "map": "Yalen Retreat",
+    "map": "Praven",
     "players": 0,
     "max": 16
   },
@@ -37,35 +44,28 @@
   {
     "name": "NI_EU_Cavalry_2",
     "module": "NordInvasion",
-    "map": "Beach Assault",
-    "players": 1,
+    "map": "Dills and Hills",
+    "players": 0,
     "max": 8
   },
   {
-    "name": "NI_EU_Hard_3",
+    "name": "NI_EU_Hard_1",
     "module": "NordInvasion",
-    "map": "Royal Observatory",
+    "map": "Swadian Lighthouse",
     "players": 0,
     "max": 16
   },
   {
-    "name": "NI_EU_Normal_1",
+    "name": "NI_EU_Hard_2*",
     "module": "NordInvasion",
-    "map": "Keancuop Forest",
-    "players": 0,
-    "max": 16
-  },
-  {
-    "name": "NI_EU_Normal_2",
-    "module": "NordInvasion",
-    "map": "Mountain Pass",
-    "players": 0,
+    "map": "Swadian City",
+    "players": 12,
     "max": 16
   },
   {
     "name": "NI_EU_Ragnarok_2",
     "module": "NordInvasion",
-    "map": "Swadian Castle",
+    "map": "Port Assault",
     "players": 0,
     "max": 16
   },
@@ -109,6 +109,13 @@
     "module": "NordInvasion",
     "map": "Hidden Cave",
     "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_SD_DB_Event",
+    "module": "NordInvasion",
+    "map": "Hyper's Hell",
+    "players": 12,
     "max": 16
   }
 ]
