@@ -7,10 +7,10 @@
     "max": 8
   },
   {
-    "name": "NI_CN_Hard*",
+    "name": "NI_CN_Hard",
     "module": "NordInvasion",
-    "map": "Praven",
-    "players": 15,
+    "map": "Royal Observatory",
+    "players": 0,
     "max": 16
   },
   {
@@ -21,24 +21,52 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Hard_1",
+    "name": "NI_EU_Beginner_1",
     "module": "NordInvasion",
-    "map": "Yalen Retreat",
+    "map": "Swadian City",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Hard_2",
+    "module": "NordInvasion",
+    "map": "Caravan Ambush",
+    "players": 2,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Hard_3",
+    "module": "NordInvasion",
+    "map": "Frosthaven",
     "players": 0,
     "max": 16
   },
   {
     "name": "NI_EU_Normal_1",
     "module": "NordInvasion",
-    "map": "Hande's Retreat",
+    "map": "Swadian Great Hall",
+    "players": 1,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Normal_3",
+    "module": "NordInvasion",
+    "map": "Fortress Under Siege",
     "players": 0,
     "max": 16
   },
   {
     "name": "NI_EU_Ragnarok_1",
     "module": "NordInvasion",
-    "map": "Frosthaven",
-    "players": 0,
+    "map": "Coastal Raid",
+    "players": 4,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Ragnarok_2",
+    "module": "NordInvasion",
+    "map": "Offshore",
+    "players": 15,
     "max": 16
   },
   {
@@ -72,7 +100,7 @@
   {
     "name": "NI_NA_Normal_2",
     "module": "NordInvasion",
-    "map": "Hande's Retreat",
+    "map": "Hidden Cave",
     "players": 0,
     "max": 16
   },
