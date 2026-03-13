@@ -30,9 +30,16 @@
   {
     "name": "NI_EU_Beginner_1",
     "module": "NordInvasion",
-    "map": "Coastal Raid",
-    "players": 1,
+    "map": "Offshore",
+    "players": 0,
     "max": 16
+  },
+  {
+    "name": "NI_EU_Cavalry_1",
+    "module": "NordInvasion",
+    "map": "Winter's Respite",
+    "players": 0,
+    "max": 8
   },
   {
     "name": "NI_EU_Cavalry_2",
@@ -42,6 +49,13 @@
     "max": 8
   },
   {
+    "name": "NI_EU_Hard_1",
+    "module": "NordInvasion",
+    "map": "Fortress Outskirts",
+    "players": 2,
+    "max": 16
+  },
+  {
     "name": "NI_EU_Hard_2",
     "module": "NordInvasion",
     "map": "Port Assault",
@@ -49,16 +63,44 @@
     "max": 16
   },
   {
+    "name": "NI_EU_Hard_3",
+    "module": "NordInvasion",
+    "map": "Lake Town",
+    "players": 0,
+    "max": 16
+  },
+  {
     "name": "NI_EU_Normal_1",
     "module": "NordInvasion",
-    "map": "Port Assault",
-    "players": 1,
+    "map": "Royal Observatory",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Normal_2",
+    "module": "NordInvasion",
+    "map": "Hyper's Castle",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Normal_3",
+    "module": "NordInvasion",
+    "map": "Offshore",
+    "players": 3,
     "max": 16
   },
   {
     "name": "NI_EU_Ragnarok_1",
     "module": "NordInvasion",
     "map": "Hyper's Castle",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Ragnarok_2",
+    "module": "NordInvasion",
+    "map": "Lake Town",
     "players": 0,
     "max": 16
   },
