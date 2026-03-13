@@ -28,37 +28,37 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Cavalry_1",
+    "name": "NI_EU_Beginner_1",
     "module": "NordInvasion",
-    "map": "Winter's Respite",
-    "players": 0,
-    "max": 8
-  },
-  {
-    "name": "NI_EU_Cavalry_2",
-    "module": "NordInvasion",
-    "map": "Winter's Respite",
-    "players": 0,
-    "max": 8
-  },
-  {
-    "name": "NI_EU_Hard_2",
-    "module": "NordInvasion",
-    "map": "Swadian Town",
-    "players": 11,
-    "max": 16
-  },
-  {
-    "name": "NI_EU_Normal_1",
-    "module": "NordInvasion",
-    "map": "Swadian Folly",
+    "map": "Offshore",
     "players": 0,
     "max": 16
   },
   {
-    "name": "NI_EU_Normal_3",
+    "name": "NI_EU_Hard_1",
     "module": "NordInvasion",
-    "map": "Caravan Ambush",
+    "map": "Yalen Retreat",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Hard_3",
+    "module": "NordInvasion",
+    "map": "Lake Town",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Normal_2",
+    "module": "NordInvasion",
+    "map": "First Defence",
+    "players": 1,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Ragnarok_2",
+    "module": "NordInvasion",
+    "map": "Lake Town",
     "players": 0,
     "max": 16
   },
