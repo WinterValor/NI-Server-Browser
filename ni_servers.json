@@ -9,22 +9,22 @@
   {
     "name": "NI_CN_Hard",
     "module": "NordInvasion",
-    "map": "Nordic Village",
-    "players": 14,
+    "map": "Swadian City",
+    "players": 0,
     "max": 16
   },
   {
     "name": "NI_CN_Normal",
     "module": "NordInvasion",
-    "map": "Hidden Cave",
-    "players": 0,
+    "map": "Caravan Ambush",
+    "players": 1,
     "max": 16
   },
   {
     "name": "NI_CN_Ragnarok",
     "module": "NordInvasion",
     "map": "Forgotten Bay",
-    "players": 0,
+    "players": 16,
     "max": 16
   },
   {
@@ -58,7 +58,7 @@
   {
     "name": "NI_EU_Hard_2",
     "module": "NordInvasion",
-    "map": "Hande's Retreat",
+    "map": "Swadian Temple",
     "players": 0,
     "max": 16
   },
@@ -66,13 +66,6 @@
     "name": "NI_EU_Hard_3",
     "module": "NordInvasion",
     "map": "Swadian Lighthouse",
-    "players": 0,
-    "max": 16
-  },
-  {
-    "name": "NI_EU_Normal_1",
-    "module": "NordInvasion",
-    "map": "King's Castleyard",
     "players": 0,
     "max": 16
   },
@@ -87,13 +80,6 @@
     "name": "NI_EU_Normal_3",
     "module": "NordInvasion",
     "map": "Swadian Old Village",
-    "players": 0,
-    "max": 16
-  },
-  {
-    "name": "NI_EU_Ragnarok_1",
-    "module": "NordInvasion",
-    "map": "Hidden Farm",
     "players": 0,
     "max": 16
   },
