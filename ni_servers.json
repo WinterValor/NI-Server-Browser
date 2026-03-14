@@ -10,7 +10,7 @@
     "name": "NI_CN_Event",
     "module": "NordInvasion",
     "map": "Hyper's Hell",
-    "players": 10,
+    "players": 14,
     "max": 16
   },
   {
@@ -30,7 +30,7 @@
   {
     "name": "NI_EU_Beginner_1",
     "module": "NordInvasion",
-    "map": "Forest Outpost",
+    "map": "Swadian Mines",
     "players": 0,
     "max": 16
   },
@@ -59,7 +59,7 @@
     "name": "NI_EU_Hard_2",
     "module": "NordInvasion",
     "map": "Lake Town",
-    "players": 0,
+    "players": 15,
     "max": 16
   },
   {
@@ -98,13 +98,6 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Ragnarok_2",
-    "module": "NordInvasion",
-    "map": "Caravan Ambush",
-    "players": 14,
-    "max": 16
-  },
-  {
     "name": "NI_NA_Beginner_1",
     "module": "NordInvasion",
     "map": "Caravan Ambush",
@@ -136,7 +129,7 @@
     "name": "NI_NA_Normal_2",
     "module": "NordInvasion",
     "map": "Hidden Cave",
-    "players": 0,
+    "players": 1,
     "max": 16
   },
   {
