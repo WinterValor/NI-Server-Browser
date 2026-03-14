@@ -10,14 +10,14 @@
     "name": "NI_CN_Event",
     "module": "NordInvasion",
     "map": "Hyper's Hell",
-    "players": 17,
+    "players": 16,
     "max": 16
   },
   {
     "name": "NI_CN_Hard",
     "module": "NordInvasion",
-    "map": "Swadian Lighthouse",
-    "players": 1,
+    "map": "Praven",
+    "players": 0,
     "max": 16
   },
   {
@@ -30,15 +30,15 @@
   {
     "name": "NI_EU_Beginner_1",
     "module": "NordInvasion",
-    "map": "Keancuop Forest",
-    "players": 1,
+    "map": "Lake Town",
+    "players": 0,
     "max": 16
   },
   {
-    "name": "NI_EU_Cavalry_1",
+    "name": "NI_EU_Cavalry_1*",
     "module": "NordInvasion",
     "map": "Beach Assault",
-    "players": 0,
+    "players": 2,
     "max": 8
   },
   {
@@ -56,10 +56,10 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Hard_2",
+    "name": "NI_EU_Hard_2*",
     "module": "NordInvasion",
-    "map": "Swadian Great Hall",
-    "players": 14,
+    "map": "Swadian Castle",
+    "players": 17,
     "max": 16
   },
   {
