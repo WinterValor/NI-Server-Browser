@@ -28,17 +28,10 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Beginner_1",
-    "module": "NordInvasion",
-    "map": "Forest Outpost",
-    "players": 0,
-    "max": 16
-  },
-  {
     "name": "NI_EU_Cavalry_1",
     "module": "NordInvasion",
-    "map": "Winter's Respite",
-    "players": 2,
+    "map": "Beach Assault",
+    "players": 0,
     "max": 8
   },
   {
@@ -49,13 +42,6 @@
     "max": 8
   },
   {
-    "name": "NI_EU_Hard_1",
-    "module": "NordInvasion",
-    "map": "Royal Observatory",
-    "players": 0,
-    "max": 16
-  },
-  {
     "name": "NI_EU_Hard_2",
     "module": "NordInvasion",
     "map": "Hande's Retreat",
@@ -63,23 +49,9 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Hard_3",
-    "module": "NordInvasion",
-    "map": "Swadian Lighthouse",
-    "players": 0,
-    "max": 16
-  },
-  {
     "name": "NI_EU_Normal_1",
     "module": "NordInvasion",
     "map": "King's Castleyard",
-    "players": 0,
-    "max": 16
-  },
-  {
-    "name": "NI_EU_Normal_2",
-    "module": "NordInvasion",
-    "map": "Fortress Under Siege",
     "players": 0,
     "max": 16
   },
@@ -94,13 +66,6 @@
     "name": "NI_EU_Ragnarok_1",
     "module": "NordInvasion",
     "map": "Hidden Farm",
-    "players": 0,
-    "max": 16
-  },
-  {
-    "name": "NI_EU_Ragnarok_2",
-    "module": "NordInvasion",
-    "map": "Port Assault",
     "players": 0,
     "max": 16
   },
@@ -143,13 +108,6 @@
     "name": "NI_NA_Ragnarok_2",
     "module": "NordInvasion",
     "map": "Swadian Old Village",
-    "players": 0,
-    "max": 16
-  },
-  {
-    "name": "NI_SH_VM_Event",
-    "module": "NordInvasion",
-    "map": "Hyper's Hell",
     "players": 0,
     "max": 16
   }
