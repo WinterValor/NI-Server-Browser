@@ -7,6 +7,13 @@
     "max": 8
   },
   {
+    "name": "NI_CN_Event",
+    "module": "NordInvasion",
+    "map": "Hyper's Hell",
+    "players": 10,
+    "max": 16
+  },
+  {
     "name": "NI_CN_Hard",
     "module": "NordInvasion",
     "map": "Swadian City",
@@ -17,13 +24,6 @@
     "name": "NI_CN_Normal",
     "module": "NordInvasion",
     "map": "Port Assault",
-    "players": 0,
-    "max": 16
-  },
-  {
-    "name": "NI_CN_Ragnarok",
-    "module": "NordInvasion",
-    "map": "First Defence",
     "players": 0,
     "max": 16
   },
@@ -98,10 +98,10 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Ragnarok_2*",
+    "name": "NI_EU_Ragnarok_2",
     "module": "NordInvasion",
-    "map": "Hidden Cave",
-    "players": 13,
+    "map": "Caravan Ambush",
+    "players": 14,
     "max": 16
   },
   {
