@@ -28,6 +28,13 @@
     "max": 16
   },
   {
+    "name": "NI_EU_Cavalry_1",
+    "module": "NordInvasion",
+    "map": "Dills and Hills",
+    "players": 0,
+    "max": 8
+  },
+  {
     "name": "NI_EU_Cavalry_2",
     "module": "NordInvasion",
     "map": "Dills and Hills",
@@ -37,15 +44,8 @@
   {
     "name": "NI_EU_Hard_2",
     "module": "NordInvasion",
-    "map": "King's Reach",
-    "players": 16,
-    "max": 16
-  },
-  {
-    "name": "NI_EU_Hard_3",
-    "module": "NordInvasion",
-    "map": "Swadian Lighthouse",
-    "players": 0,
+    "map": "Praven",
+    "players": 14,
     "max": 16
   },
   {
@@ -56,10 +56,24 @@
     "max": 16
   },
   {
+    "name": "NI_EU_Normal_2",
+    "module": "NordInvasion",
+    "map": "Port Assault",
+    "players": 0,
+    "max": 16
+  },
+  {
     "name": "NI_EU_Normal_3",
     "module": "NordInvasion",
     "map": "Hande's Retreat",
     "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Ragnarok_1*",
+    "module": "NordInvasion",
+    "map": "Offshore",
+    "players": 6,
     "max": 16
   },
   {
