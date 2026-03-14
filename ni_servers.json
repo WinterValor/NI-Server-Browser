@@ -28,20 +28,6 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Beginner_1",
-    "module": "NordInvasion",
-    "map": "Swadian Outskirts",
-    "players": 1,
-    "max": 16
-  },
-  {
-    "name": "NI_EU_Cavalry_1",
-    "module": "NordInvasion",
-    "map": "Dills and Hills",
-    "players": 0,
-    "max": 8
-  },
-  {
     "name": "NI_EU_Cavalry_2",
     "module": "NordInvasion",
     "map": "Dills and Hills",
@@ -49,23 +35,9 @@
     "max": 8
   },
   {
-    "name": "NI_EU_Hard_1",
-    "module": "NordInvasion",
-    "map": "Forest Outpost",
-    "players": 10,
-    "max": 16
-  },
-  {
     "name": "NI_EU_Hard_2",
     "module": "NordInvasion",
     "map": "Swadian Mines",
-    "players": 0,
-    "max": 16
-  },
-  {
-    "name": "NI_EU_Hard_3",
-    "module": "NordInvasion",
-    "map": "Fortress Under Siege",
     "players": 0,
     "max": 16
   },
@@ -77,23 +49,9 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Normal_2",
-    "module": "NordInvasion",
-    "map": "Praven",
-    "players": 0,
-    "max": 16
-  },
-  {
     "name": "NI_EU_Normal_3",
     "module": "NordInvasion",
     "map": "Traders' Valley",
-    "players": 0,
-    "max": 16
-  },
-  {
-    "name": "NI_EU_Ragnarok_1",
-    "module": "NordInvasion",
-    "map": "Swadian Great Hall",
     "players": 0,
     "max": 16
   },
