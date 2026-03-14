@@ -14,13 +14,6 @@
     "max": 16
   },
   {
-    "name": "NI_CN_Normal",
-    "module": "NordInvasion",
-    "map": "King's Reach",
-    "players": 0,
-    "max": 16
-  },
-  {
     "name": "NI_CN_Ragnarok",
     "module": "NordInvasion",
     "map": "Swadian Lighthouse",
@@ -28,32 +21,11 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Beginner_1",
-    "module": "NordInvasion",
-    "map": "Caravan Ambush",
-    "players": 0,
-    "max": 16
-  },
-  {
-    "name": "NI_EU_Cavalry_1",
-    "module": "NordInvasion",
-    "map": "Dills and Hills",
-    "players": 0,
-    "max": 8
-  },
-  {
     "name": "NI_EU_Cavalry_2",
     "module": "NordInvasion",
     "map": "Dills and Hills",
     "players": 0,
     "max": 8
-  },
-  {
-    "name": "NI_EU_Hard_1",
-    "module": "NordInvasion",
-    "map": "Royal Observatory",
-    "players": 0,
-    "max": 16
   },
   {
     "name": "NI_EU_Hard_3",
@@ -70,24 +42,17 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Normal_2",
-    "module": "NordInvasion",
-    "map": "Praven",
-    "players": 0,
-    "max": 16
-  },
-  {
     "name": "NI_EU_Normal_3",
     "module": "NordInvasion",
-    "map": "Hande's Retreat",
-    "players": 4,
+    "map": "Hidden Cave",
+    "players": 6,
     "max": 16
   },
   {
     "name": "NI_EU_Ragnarok_1",
     "module": "NordInvasion",
-    "map": "Swadian Lighthouse",
-    "players": 2,
+    "map": "First Defence",
+    "players": 0,
     "max": 16
   },
   {
@@ -107,7 +72,7 @@
   {
     "name": "NI_NA_Hard_2",
     "module": "NordInvasion",
-    "map": "Coastal Raid",
+    "map": "Swadian Temple",
     "players": 2,
     "max": 16
   },
@@ -129,11 +94,11 @@
     "name": "NI_NA_Ragnarok_2",
     "module": "NordInvasion",
     "map": "Traders' Valley",
-    "players": 0,
+    "players": 1,
     "max": 16
   },
   {
-    "name": "NI_Official_Event*",
+    "name": "NI_Official_Event",
     "module": "NordInvasion",
     "map": "Hyper's Hell",
     "players": 20,
