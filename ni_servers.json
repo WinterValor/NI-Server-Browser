@@ -28,11 +28,11 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Hard_3",
+    "name": "NI_EU_Cavalry_1",
     "module": "NordInvasion",
-    "map": "Swadian Lighthouse",
+    "map": "Dills and Hills",
     "players": 0,
-    "max": 16
+    "max": 8
   },
   {
     "name": "NI_EU_Normal_1",
@@ -49,10 +49,10 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Ragnarok_1*",
+    "name": "NI_EU_Ragnarok_1",
     "module": "NordInvasion",
-    "map": "Swadian Old Village",
-    "players": 16,
+    "map": "Swadian Castle",
+    "players": 0,
     "max": 16
   },
   {
@@ -72,8 +72,8 @@
   {
     "name": "NI_NA_Hard_2",
     "module": "NordInvasion",
-    "map": "Nordic Fortress",
-    "players": 0,
+    "map": "Graubergen",
+    "players": 3,
     "max": 16
   },
   {
@@ -101,7 +101,7 @@
     "name": "NI_Official_Event",
     "module": "NordInvasion",
     "map": "King's Castleyard",
-    "players": 0,
+    "players": 19,
     "max": 16
   }
 ]
