@@ -9,8 +9,8 @@
   {
     "name": "NI_CN_Hard",
     "module": "NordInvasion",
-    "map": "Forest Outpost",
-    "players": 6,
+    "map": "Nordic Village",
+    "players": 14,
     "max": 16
   },
   {
