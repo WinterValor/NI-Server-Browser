@@ -2,21 +2,21 @@
   {
     "name": "NI_CN_Cavalry",
     "module": "NordInvasion",
-    "map": "Dills and Hills",
+    "map": "Battle of Praven",
     "players": 0,
     "max": 8
   },
   {
     "name": "NI_CN_Hard",
     "module": "NordInvasion",
-    "map": "Praven",
+    "map": "Coastal Raid",
     "players": 0,
     "max": 16
   },
   {
     "name": "NI_CN_Normal",
     "module": "NordInvasion",
-    "map": "Swadian Town",
+    "map": "Swadian Temple",
     "players": 0,
     "max": 16
   },
@@ -28,32 +28,11 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Beginner_1",
-    "module": "NordInvasion",
-    "map": "Keancuop Forest",
-    "players": 0,
-    "max": 16
-  },
-  {
     "name": "NI_EU_Cavalry_1",
     "module": "NordInvasion",
     "map": "Dills and Hills",
     "players": 0,
     "max": 8
-  },
-  {
-    "name": "NI_EU_Cavalry_2",
-    "module": "NordInvasion",
-    "map": "Battle of Praven",
-    "players": 0,
-    "max": 8
-  },
-  {
-    "name": "NI_EU_DB_SD_Event",
-    "module": "NordInvasion",
-    "map": "Old Shire",
-    "players": 17,
-    "max": 16
   },
   {
     "name": "NI_EU_Hard_1",
@@ -70,30 +49,9 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Normal_2",
+    "name": "NI_EU_Hard_3",
     "module": "NordInvasion",
-    "map": "Caravan Ambush",
-    "players": 0,
-    "max": 16
-  },
-  {
-    "name": "NI_EU_Normal_3",
-    "module": "NordInvasion",
-    "map": "First Defence",
-    "players": 0,
-    "max": 16
-  },
-  {
-    "name": "NI_EU_Ragnarok_1",
-    "module": "NordInvasion",
-    "map": "Hidden Farm",
-    "players": 11,
-    "max": 16
-  },
-  {
-    "name": "NI_EU_Ragnarok_2",
-    "module": "NordInvasion",
-    "map": "Swadian Town",
+    "map": "Ancient Bastion",
     "players": 0,
     "max": 16
   },
