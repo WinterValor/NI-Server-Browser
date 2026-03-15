@@ -28,10 +28,10 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Beginner_1*",
+    "name": "NI_EU_Beginner_1",
     "module": "NordInvasion",
-    "map": "Hidden Farm",
-    "players": 1,
+    "map": "Keancuop Forest",
+    "players": 0,
     "max": 16
   },
   {
@@ -52,14 +52,7 @@
     "name": "NI_EU_DB_SD_Event",
     "module": "NordInvasion",
     "map": "Hyper's Hell",
-    "players": 16,
-    "max": 16
-  },
-  {
-    "name": "NI_EU_Hard_1",
-    "module": "NordInvasion",
-    "map": "Praven",
-    "players": 0,
+    "players": 17,
     "max": 16
   },
   {
@@ -67,27 +60,6 @@
     "module": "NordInvasion",
     "map": "Swadian Folly",
     "players": 0,
-    "max": 16
-  },
-  {
-    "name": "NI_EU_Normal_2",
-    "module": "NordInvasion",
-    "map": "Caravan Ambush",
-    "players": 0,
-    "max": 16
-  },
-  {
-    "name": "NI_EU_Normal_3",
-    "module": "NordInvasion",
-    "map": "First Defence",
-    "players": 0,
-    "max": 16
-  },
-  {
-    "name": "NI_EU_Ragnarok_1",
-    "module": "NordInvasion",
-    "map": "Old Shire",
-    "players": 13,
     "max": 16
   },
   {
