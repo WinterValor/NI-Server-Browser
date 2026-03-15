@@ -35,20 +35,6 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Cavalry_1",
-    "module": "NordInvasion",
-    "map": "Dills and Hills",
-    "players": 0,
-    "max": 8
-  },
-  {
-    "name": "NI_EU_Cavalry_2",
-    "module": "NordInvasion",
-    "map": "Dills and Hills",
-    "players": 0,
-    "max": 8
-  },
-  {
     "name": "NI_EU_Hard_1",
     "module": "NordInvasion",
     "map": "Hande's Retreat",
@@ -63,38 +49,10 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Hard_3",
-    "module": "NordInvasion",
-    "map": "Fortress Under Siege",
-    "players": 0,
-    "max": 16
-  },
-  {
-    "name": "NI_EU_Normal_1",
-    "module": "NordInvasion",
-    "map": "Swadian Citadel",
-    "players": 0,
-    "max": 16
-  },
-  {
-    "name": "NI_EU_Normal_2",
-    "module": "NordInvasion",
-    "map": "Praven",
-    "players": 0,
-    "max": 16
-  },
-  {
     "name": "NI_EU_Normal_3",
     "module": "NordInvasion",
-    "map": "Traders' Valley",
-    "players": 0,
-    "max": 16
-  },
-  {
-    "name": "NI_EU_Ragnarok_1",
-    "module": "NordInvasion",
-    "map": "Lake Town",
-    "players": 0,
+    "map": "Graubergen",
+    "players": 3,
     "max": 16
   },
   {
