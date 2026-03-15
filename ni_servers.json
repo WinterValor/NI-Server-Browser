@@ -2,7 +2,7 @@
   {
     "name": "NI_CN_Cavalry",
     "module": "NordInvasion",
-    "map": "Battle of Praven",
+    "map": "Plains of Knudarr",
     "players": 0,
     "max": 8
   },
@@ -16,7 +16,7 @@
   {
     "name": "NI_CN_Normal",
     "module": "NordInvasion",
-    "map": "Swadian Temple",
+    "map": "Hidden Cave",
     "players": 0,
     "max": 16
   },
@@ -93,8 +93,8 @@
   {
     "name": "NI_EU_Ragnarok_1",
     "module": "NordInvasion",
-    "map": "Royal Observatory",
-    "players": 5,
+    "map": "Swadian Town",
+    "players": 1,
     "max": 16
   },
   {
@@ -121,7 +121,7 @@
   {
     "name": "NI_NA_Normal_1",
     "module": "NordInvasion",
-    "map": "Fortress Outskirts",
+    "map": "Fortress Under Siege",
     "players": 0,
     "max": 16
   },
