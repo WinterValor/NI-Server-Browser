@@ -30,8 +30,8 @@
   {
     "name": "NI_EU_Beginner_1",
     "module": "NordInvasion",
-    "map": "Forest Outpost",
-    "players": 2,
+    "map": "Old Shire",
+    "players": 0,
     "max": 16
   },
   {
@@ -42,9 +42,58 @@
     "max": 8
   },
   {
+    "name": "NI_EU_Cavalry_2",
+    "module": "NordInvasion",
+    "map": "Battle of Praven",
+    "players": 0,
+    "max": 8
+  },
+  {
+    "name": "NI_EU_DB_SD_Event",
+    "module": "NordInvasion",
+    "map": "Hyper's Hell",
+    "players": 17,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Hard_1",
+    "module": "NordInvasion",
+    "map": "Praven",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Hard_2",
+    "module": "NordInvasion",
+    "map": "Swadian Folly",
+    "players": 0,
+    "max": 16
+  },
+  {
     "name": "NI_EU_Normal_2",
     "module": "NordInvasion",
-    "map": "Swadian Lighthouse",
+    "map": "Caravan Ambush",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Normal_3",
+    "module": "NordInvasion",
+    "map": "First Defence",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Ragnarok_1",
+    "module": "NordInvasion",
+    "map": "Fortress Under Siege",
+    "players": 16,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Ragnarok_2",
+    "module": "NordInvasion",
+    "map": "Forest Outpost",
     "players": 4,
     "max": 16
   },
