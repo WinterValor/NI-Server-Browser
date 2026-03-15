@@ -56,13 +56,6 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Hard_2",
-    "module": "NordInvasion",
-    "map": "Swadian Mines",
-    "players": 0,
-    "max": 16
-  },
-  {
     "name": "NI_EU_Hard_3",
     "module": "NordInvasion",
     "map": "Fortress Under Siege",
@@ -81,13 +74,6 @@
     "module": "NordInvasion",
     "map": "Praven",
     "players": 0,
-    "max": 16
-  },
-  {
-    "name": "NI_EU_Normal_3",
-    "module": "NordInvasion",
-    "map": "King's Reach",
-    "players": 5,
     "max": 16
   },
   {
