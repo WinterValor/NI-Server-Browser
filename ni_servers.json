@@ -28,13 +28,6 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Beginner_1",
-    "module": "NordInvasion",
-    "map": "Keancuop Forest",
-    "players": 0,
-    "max": 16
-  },
-  {
     "name": "NI_EU_Cavalry_1",
     "module": "NordInvasion",
     "map": "Battle of Praven",
@@ -51,7 +44,7 @@
   {
     "name": "NI_EU_Hard_1",
     "module": "NordInvasion",
-    "map": "Praven",
+    "map": "Swadian Outskirts",
     "players": 0,
     "max": 16
   },
@@ -70,17 +63,17 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Normal_3",
+    "name": "NI_EU_Ragnarok_1",
     "module": "NordInvasion",
-    "map": "Swadian Citadel",
-    "players": 0,
+    "map": "Swadian Temple",
+    "players": 16,
     "max": 16
   },
   {
-    "name": "NI_EU_Ragnarok_1",
+    "name": "NI_EU_Ragnarok_2",
     "module": "NordInvasion",
-    "map": "Hyper's Hell",
-    "players": 16,
+    "map": "Swadian Town",
+    "players": 0,
     "max": 16
   },
   {
