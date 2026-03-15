@@ -77,16 +77,16 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Normal_3",
+    "name": "NI_EU_Normal_3*",
     "module": "NordInvasion",
     "map": "First Defence",
-    "players": 0,
+    "players": 1,
     "max": 16
   },
   {
-    "name": "NI_EU_Ragnarok_1*",
+    "name": "NI_EU_Ragnarok_1",
     "module": "NordInvasion",
-    "map": "Offshore",
+    "map": "Hidden Cave",
     "players": 14,
     "max": 16
   },
