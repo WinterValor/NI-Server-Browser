@@ -16,8 +16,8 @@
   {
     "name": "NI_CN_Normal",
     "module": "NordInvasion",
-    "map": "Swadian Folly",
-    "players": 2,
+    "map": "Swadian Castle",
+    "players": 0,
     "max": 16
   },
   {
@@ -28,23 +28,23 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Beginner_1",
+    "name": "NI_EU_Hard_3",
     "module": "NordInvasion",
-    "map": "Hidden Cave",
+    "map": "Praven",
     "players": 0,
     "max": 16
   },
   {
-    "name": "NI_EU_Cavalry_1",
-    "module": "NordInvasion",
-    "map": "Dills and Hills",
-    "players": 0,
-    "max": 8
-  },
-  {
     "name": "NI_EU_Normal_2",
     "module": "NordInvasion",
-    "map": "King's Castleyard",
+    "map": "Swadian Outskirts",
+    "players": 1,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Normal_3",
+    "module": "NordInvasion",
+    "map": "Mountain Pass",
     "players": 0,
     "max": 16
   },
