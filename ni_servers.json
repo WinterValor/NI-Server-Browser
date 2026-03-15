@@ -28,10 +28,10 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Beginner_1",
+    "name": "NI_EU_Beginner_1*",
     "module": "NordInvasion",
-    "map": "Old Shire",
-    "players": 0,
+    "map": "Hidden Farm",
+    "players": 1,
     "max": 16
   },
   {
@@ -52,7 +52,7 @@
     "name": "NI_EU_DB_SD_Event",
     "module": "NordInvasion",
     "map": "Hyper's Hell",
-    "players": 17,
+    "players": 16,
     "max": 16
   },
   {
@@ -86,15 +86,8 @@
   {
     "name": "NI_EU_Ragnarok_1",
     "module": "NordInvasion",
-    "map": "Fortress Under Siege",
-    "players": 16,
-    "max": 16
-  },
-  {
-    "name": "NI_EU_Ragnarok_2",
-    "module": "NordInvasion",
-    "map": "Forest Outpost",
-    "players": 4,
+    "map": "Old Shire",
+    "players": 13,
     "max": 16
   },
   {
