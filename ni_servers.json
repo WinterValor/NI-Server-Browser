@@ -3,7 +3,7 @@
     "name": "NI_CN_Cavalry",
     "module": "NordInvasion",
     "map": "Plains of Knudarr",
-    "players": 0,
+    "players": 1,
     "max": 8
   },
   {
@@ -30,8 +30,8 @@
   {
     "name": "NI_EU_Beginner_1",
     "module": "NordInvasion",
-    "map": "Swadian Overgrown",
-    "players": 0,
+    "map": "Nordic Fortress",
+    "players": 2,
     "max": 16
   },
   {
@@ -49,6 +49,13 @@
     "max": 8
   },
   {
+    "name": "NI_EU_DB_SD_Event",
+    "module": "NordInvasion",
+    "map": "Hyper's Hell",
+    "players": 18,
+    "max": 16
+  },
+  {
     "name": "NI_EU_Hard_1",
     "module": "NordInvasion",
     "map": "Praven",
@@ -63,17 +70,10 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Hard_3",
+    "name": "NI_EU_Normal_2*",
     "module": "NordInvasion",
-    "map": "Praven",
-    "players": 0,
-    "max": 16
-  },
-  {
-    "name": "NI_EU_Normal_2",
-    "module": "NordInvasion",
-    "map": "Hyper's Hell",
-    "players": 4,
+    "map": "Graubergen",
+    "players": 12,
     "max": 16
   },
   {
@@ -86,8 +86,8 @@
   {
     "name": "NI_EU_Ragnarok_1",
     "module": "NordInvasion",
-    "map": "Yalen Retreat",
-    "players": 16,
+    "map": "Fortress Under Siege",
+    "players": 0,
     "max": 16
   },
   {
