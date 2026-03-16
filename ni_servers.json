@@ -30,21 +30,14 @@
   {
     "name": "NI_EU_Beginner_1",
     "module": "NordInvasion",
-    "map": "Swadian Folly",
-    "players": 0,
+    "map": "Swadian Lighthouse",
+    "players": 1,
     "max": 16
   },
   {
     "name": "NI_EU_Cavalry_1",
     "module": "NordInvasion",
     "map": "Battle of Praven",
-    "players": 0,
-    "max": 8
-  },
-  {
-    "name": "NI_EU_Cavalry_2",
-    "module": "NordInvasion",
-    "map": "Plains of Knudarr",
     "players": 0,
     "max": 8
   },
@@ -58,7 +51,7 @@
   {
     "name": "NI_EU_Hard_2",
     "module": "NordInvasion",
-    "map": "Swadian Town",
+    "map": "Fortress Under Siege",
     "players": 0,
     "max": 16
   },
@@ -72,8 +65,8 @@
   {
     "name": "NI_EU_Normal_1",
     "module": "NordInvasion",
-    "map": "First Defence",
-    "players": 5,
+    "map": "Hande's Retreat",
+    "players": 3,
     "max": 16
   },
   {
@@ -87,13 +80,13 @@
     "name": "NI_EU_Normal_3",
     "module": "NordInvasion",
     "map": "Hande's Retreat",
-    "players": 1,
+    "players": 0,
     "max": 16
   },
   {
     "name": "NI_EU_Ragnarok_1",
     "module": "NordInvasion",
-    "map": "Senuzgda Cavern",
+    "map": "Graubergen",
     "players": 16,
     "max": 16
   },
@@ -122,7 +115,7 @@
     "name": "NI_NA_Normal_1",
     "module": "NordInvasion",
     "map": "Hyper's Hell",
-    "players": 0,
+    "players": 1,
     "max": 16
   },
   {
