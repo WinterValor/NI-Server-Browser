@@ -10,7 +10,7 @@
     "name": "NI_CN_Hard",
     "module": "NordInvasion",
     "map": "Hande's Retreat",
-    "players": 0,
+    "players": 15,
     "max": 16
   },
   {
@@ -23,8 +23,8 @@
   {
     "name": "NI_CN_Ragnarok",
     "module": "NordInvasion",
-    "map": "Ancient Bastion",
-    "players": 15,
+    "map": "Swadian Lighthouse",
+    "players": 0,
     "max": 16
   },
   {
@@ -65,14 +65,14 @@
   {
     "name": "NI_EU_Hard_3",
     "module": "NordInvasion",
-    "map": "Graubergen",
+    "map": "Swadian City",
     "players": 0,
     "max": 16
   },
   {
     "name": "NI_EU_Normal_1",
     "module": "NordInvasion",
-    "map": "Old Shire",
+    "map": "Royal Observatory",
     "players": 0,
     "max": 16
   },
@@ -87,14 +87,14 @@
     "name": "NI_EU_Normal_3",
     "module": "NordInvasion",
     "map": "Port Assault",
-    "players": 0,
+    "players": 1,
     "max": 16
   },
   {
     "name": "NI_EU_Ragnarok_1",
     "module": "NordInvasion",
-    "map": "First Defence",
-    "players": 13,
+    "map": "King's Reach",
+    "players": 0,
     "max": 16
   },
   {
