@@ -9,15 +9,15 @@
   {
     "name": "NI_CN_Hard",
     "module": "NordInvasion",
-    "map": "Coastal Raid",
+    "map": "Swadian Castle",
     "players": 0,
     "max": 16
   },
   {
-    "name": "NI_CN_Normal",
+    "name": "NI_CN_Normal*",
     "module": "NordInvasion",
     "map": "Swadian Temple",
-    "players": 0,
+    "players": 2,
     "max": 16
   },
   {
@@ -30,35 +30,14 @@
   {
     "name": "NI_EU_Beginner_1",
     "module": "NordInvasion",
-    "map": "Hyper's Hell",
+    "map": "Royal Observatory",
     "players": 0,
     "max": 16
-  },
-  {
-    "name": "NI_EU_Cavalry_1",
-    "module": "NordInvasion",
-    "map": "Battle of Praven",
-    "players": 0,
-    "max": 8
-  },
-  {
-    "name": "NI_EU_Cavalry_2",
-    "module": "NordInvasion",
-    "map": "Battle of Praven",
-    "players": 0,
-    "max": 8
   },
   {
     "name": "NI_EU_Hard_1",
     "module": "NordInvasion",
-    "map": "Swadian Folly",
-    "players": 1,
-    "max": 16
-  },
-  {
-    "name": "NI_EU_Hard_2",
-    "module": "NordInvasion",
-    "map": "Forgotten Bay",
+    "map": "Frosthaven",
     "players": 0,
     "max": 16
   },
@@ -70,30 +49,9 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Normal_2",
-    "module": "NordInvasion",
-    "map": "Hidden Cave",
-    "players": 0,
-    "max": 16
-  },
-  {
-    "name": "NI_EU_Normal_3",
-    "module": "NordInvasion",
-    "map": "Swadian Citadel",
-    "players": 0,
-    "max": 16
-  },
-  {
     "name": "NI_EU_Ragnarok_1",
     "module": "NordInvasion",
-    "map": "Traders' Valley",
-    "players": 9,
-    "max": 16
-  },
-  {
-    "name": "NI_EU_Ragnarok_2",
-    "module": "NordInvasion",
-    "map": "Swadian Town",
+    "map": "Swadian Lighthouse",
     "players": 0,
     "max": 16
   },
@@ -121,7 +79,7 @@
   {
     "name": "NI_NA_Normal_1",
     "module": "NordInvasion",
-    "map": "Fortress Under Siege",
+    "map": "Hidden Cave",
     "players": 0,
     "max": 16
   },
