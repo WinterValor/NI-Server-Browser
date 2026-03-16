@@ -9,15 +9,15 @@
   {
     "name": "NI_CN_Hard",
     "module": "NordInvasion",
-    "map": "Swadian Castle",
-    "players": 7,
+    "map": "Praven",
+    "players": 0,
     "max": 16
   },
   {
     "name": "NI_CN_Normal",
     "module": "NordInvasion",
-    "map": "King of the Hill",
-    "players": 2,
+    "map": "Keancuop Forest",
+    "players": 13,
     "max": 16
   },
   {
