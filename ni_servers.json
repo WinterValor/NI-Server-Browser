@@ -14,17 +14,10 @@
     "max": 16
   },
   {
-    "name": "NI_CN_Normal*",
+    "name": "NI_CN_Normal",
     "module": "NordInvasion",
-    "map": "Frosthaven",
-    "players": 11,
-    "max": 16
-  },
-  {
-    "name": "NI_CN_Ragnarok",
-    "module": "NordInvasion",
-    "map": "Forgotten Bay",
-    "players": 0,
+    "map": "Hyper's Hell",
+    "players": 3,
     "max": 16
   },
   {
@@ -49,31 +42,10 @@
     "max": 8
   },
   {
-    "name": "NI_EU_Hard_1",
-    "module": "NordInvasion",
-    "map": "Offshore",
-    "players": 0,
-    "max": 16
-  },
-  {
-    "name": "NI_EU_Hard_2",
-    "module": "NordInvasion",
-    "map": "Forgotten Bay",
-    "players": 0,
-    "max": 16
-  },
-  {
     "name": "NI_EU_Hard_3",
     "module": "NordInvasion",
-    "map": "Hande's Retreat",
-    "players": 2,
-    "max": 16
-  },
-  {
-    "name": "NI_EU_Normal_2",
-    "module": "NordInvasion",
-    "map": "Hande's Retreat",
-    "players": 0,
+    "map": "Traders' Valley",
+    "players": 10,
     "max": 16
   },
   {
