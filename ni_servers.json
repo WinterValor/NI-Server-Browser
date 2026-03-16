@@ -1,15 +1,15 @@
 [
   {
-    "name": "NI_CN_Cavalry*",
+    "name": "NI_CN_Cavalry",
     "module": "NordInvasion",
-    "map": "Winter's Respite",
-    "players": 3,
+    "map": "Medieval Fields",
+    "players": 0,
     "max": 8
   },
   {
     "name": "NI_CN_Hard",
     "module": "NordInvasion",
-    "map": "Praven",
+    "map": "Hande's Retreat",
     "players": 0,
     "max": 16
   },
@@ -23,8 +23,8 @@
   {
     "name": "NI_CN_Ragnarok",
     "module": "NordInvasion",
-    "map": "Forgotten Bay",
-    "players": 0,
+    "map": "Ancient Bastion",
+    "players": 15,
     "max": 16
   },
   {
@@ -51,22 +51,29 @@
   {
     "name": "NI_EU_Hard_1",
     "module": "NordInvasion",
-    "map": "Swadian Great Hall",
+    "map": "Senuzgda Cavern",
     "players": 0,
     "max": 16
   },
   {
     "name": "NI_EU_Hard_2",
     "module": "NordInvasion",
-    "map": "Forgotten Bay",
+    "map": "Mountain Pass",
     "players": 0,
     "max": 16
   },
   {
-    "name": "NI_EU_Hard_3*",
+    "name": "NI_EU_Hard_3",
     "module": "NordInvasion",
-    "map": "Swadian Old Village",
-    "players": 16,
+    "map": "Graubergen",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Normal_1",
+    "module": "NordInvasion",
+    "map": "Old Shire",
+    "players": 0,
     "max": 16
   },
   {
@@ -86,15 +93,8 @@
   {
     "name": "NI_EU_Ragnarok_1",
     "module": "NordInvasion",
-    "map": "Swadian Lighthouse",
-    "players": 0,
-    "max": 16
-  },
-  {
-    "name": "NI_EU_Ragnarok_2",
-    "module": "NordInvasion",
-    "map": "Swadian Town",
-    "players": 0,
+    "map": "First Defence",
+    "players": 13,
     "max": 16
   },
   {
