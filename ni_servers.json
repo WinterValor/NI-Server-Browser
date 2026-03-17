@@ -9,8 +9,8 @@
   {
     "name": "NI_CN_Hard",
     "module": "NordInvasion",
-    "map": "Hande's Retreat",
-    "players": 9,
+    "map": "Swadian Folly",
+    "players": 5,
     "max": 16
   },
   {
@@ -26,6 +26,27 @@
     "map": "Forgotten Bay",
     "players": 0,
     "max": 16
+  },
+  {
+    "name": "NI_EU_Beginner_1",
+    "module": "NordInvasion",
+    "map": "Coastal Raid",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Cavalry_1",
+    "module": "NordInvasion",
+    "map": "Battle of Praven",
+    "players": 0,
+    "max": 8
+  },
+  {
+    "name": "NI_EU_Cavalry_2",
+    "module": "NordInvasion",
+    "map": "Plains of Knudarr",
+    "players": 0,
+    "max": 8
   },
   {
     "name": "NI_EU_Hard_1",
@@ -56,9 +77,16 @@
     "max": 16
   },
   {
+    "name": "NI_EU_Normal_2",
+    "module": "NordInvasion",
+    "map": "Swadian City",
+    "players": 0,
+    "max": 16
+  },
+  {
     "name": "NI_EU_Normal_3",
     "module": "NordInvasion",
-    "map": "Swadian Mines",
+    "map": "Fortress Outskirts",
     "players": 0,
     "max": 16
   },
