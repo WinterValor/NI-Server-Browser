@@ -3,14 +3,14 @@
     "name": "NI_CN_Cavalry",
     "module": "NordInvasion",
     "map": "Winter's Respite",
-    "players": 0,
+    "players": 3,
     "max": 8
   },
   {
     "name": "NI_CN_Hard",
     "module": "NordInvasion",
-    "map": "Unuzdaq Castle",
-    "players": 5,
+    "map": "Graubergen",
+    "players": 0,
     "max": 16
   },
   {
@@ -58,8 +58,8 @@
   {
     "name": "NI_EU_Hard_2",
     "module": "NordInvasion",
-    "map": "Lake Town",
-    "players": 7,
+    "map": "Nordic Fortress",
+    "players": 4,
     "max": 16
   },
   {
