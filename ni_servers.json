@@ -3,28 +3,28 @@
     "name": "NI_CN_Cavalry",
     "module": "NordInvasion",
     "map": "Beach Assault",
-    "players": 0,
+    "players": 1,
     "max": 8
   },
   {
     "name": "NI_CN_Hard",
     "module": "NordInvasion",
-    "map": "Forest Outpost",
-    "players": 2,
+    "map": "Swadian Mines",
+    "players": 0,
     "max": 16
   },
   {
     "name": "NI_CN_Normal",
     "module": "NordInvasion",
-    "map": "Hidden Cave",
+    "map": "Graubergen",
     "players": 0,
     "max": 16
   },
   {
-    "name": "NI_CN_Ragnarok*",
+    "name": "NI_CN_Ragnarok",
     "module": "NordInvasion",
-    "map": "First Defence",
-    "players": 17,
+    "map": "Senuzgda Cavern",
+    "players": 16,
     "max": 16
   },
   {
@@ -38,6 +38,13 @@
     "name": "NI_EU_Cavalry_1",
     "module": "NordInvasion",
     "map": "Battle of Praven",
+    "players": 4,
+    "max": 8
+  },
+  {
+    "name": "NI_EU_Cavalry_2",
+    "module": "NordInvasion",
+    "map": "Plains of Knudarr",
     "players": 0,
     "max": 8
   },
@@ -51,8 +58,8 @@
   {
     "name": "NI_EU_Hard_2",
     "module": "NordInvasion",
-    "map": "Swadian Great Hall",
-    "players": 3,
+    "map": "Hidden Farm",
+    "players": 0,
     "max": 16
   },
   {
@@ -63,9 +70,30 @@
     "max": 16
   },
   {
+    "name": "NI_EU_Normal_1*",
+    "module": "NordInvasion",
+    "map": "Offshore",
+    "players": 2,
+    "max": 16
+  },
+  {
     "name": "NI_EU_Normal_2",
     "module": "NordInvasion",
     "map": "Swadian City",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Normal_3",
+    "module": "NordInvasion",
+    "map": "Swadian Temple",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Ragnarok_1",
+    "module": "NordInvasion",
+    "map": "Lake Town",
     "players": 0,
     "max": 16
   },
