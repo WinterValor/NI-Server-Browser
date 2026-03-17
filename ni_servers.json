@@ -23,7 +23,14 @@
   {
     "name": "NI_CN_Ragnarok",
     "module": "NordInvasion",
-    "map": "Nordic Village",
+    "map": "Swadian Mines",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Beginner_1",
+    "module": "NordInvasion",
+    "map": "Swadian Outskirts",
     "players": 0,
     "max": 16
   },
@@ -42,6 +49,13 @@
     "max": 8
   },
   {
+    "name": "NI_EU_Hard_1",
+    "module": "NordInvasion",
+    "map": "Mountain Pass",
+    "players": 0,
+    "max": 16
+  },
+  {
     "name": "NI_EU_Hard_2",
     "module": "NordInvasion",
     "map": "Hidden Farm",
@@ -51,7 +65,7 @@
   {
     "name": "NI_EU_Hard_3",
     "module": "NordInvasion",
-    "map": "Forest Outpost",
+    "map": "Nordic Fortress",
     "players": 0,
     "max": 16
   },
@@ -63,10 +77,24 @@
     "max": 16
   },
   {
+    "name": "NI_EU_Normal_2",
+    "module": "NordInvasion",
+    "map": "Swadian City",
+    "players": 0,
+    "max": 16
+  },
+  {
     "name": "NI_EU_Normal_3",
     "module": "NordInvasion",
-    "map": "Swadian Temple",
+    "map": "Swadian Lighthouse",
     "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Ragnarok_1",
+    "module": "NordInvasion",
+    "map": "Hyper's Castle",
+    "players": 16,
     "max": 16
   },
   {
@@ -94,13 +122,13 @@
     "name": "NI_NA_Normal_2",
     "module": "NordInvasion",
     "map": "Hyper's Castle",
-    "players": 0,
+    "players": 2,
     "max": 16
   },
   {
     "name": "NI_NA_Ragnarok_2",
     "module": "NordInvasion",
-    "map": "Praven",
+    "map": "King's Reach",
     "players": 0,
     "max": 16
   }
