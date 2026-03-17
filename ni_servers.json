@@ -28,10 +28,38 @@
     "max": 16
   },
   {
+    "name": "NI_EU_Beginner_1",
+    "module": "NordInvasion",
+    "map": "Coastal Raid",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Cavalry_1",
+    "module": "NordInvasion",
+    "map": "Battle of Praven",
+    "players": 0,
+    "max": 8
+  },
+  {
+    "name": "NI_EU_Cavalry_2",
+    "module": "NordInvasion",
+    "map": "Plains of Knudarr",
+    "players": 0,
+    "max": 8
+  },
+  {
     "name": "NI_EU_Hard_1",
     "module": "NordInvasion",
     "map": "Caravan Ambush",
     "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Hard_2*",
+    "module": "NordInvasion",
+    "map": "Swadian Citadel",
+    "players": 6,
     "max": 16
   },
   {
@@ -56,6 +84,20 @@
     "max": 16
   },
   {
+    "name": "NI_EU_Normal_3",
+    "module": "NordInvasion",
+    "map": "Hande's Retreat",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Ragnarok_1",
+    "module": "NordInvasion",
+    "map": "Keancuop Forest",
+    "players": 0,
+    "max": 16
+  },
+  {
     "name": "NI_NA_Beginner_1",
     "module": "NordInvasion",
     "map": "Caravan Ambush",
@@ -66,7 +108,7 @@
     "name": "NI_NA_Cavalry_1",
     "module": "NordInvasion",
     "map": "Battle of Praven",
-    "players": 0,
+    "players": 1,
     "max": 8
   },
   {
