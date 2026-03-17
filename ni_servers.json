@@ -2,28 +2,35 @@
   {
     "name": "NI_CN_Cavalry",
     "module": "NordInvasion",
-    "map": "Dills and Hills",
+    "map": "Battle of Praven",
     "players": 0,
     "max": 8
   },
   {
     "name": "NI_CN_Hard",
     "module": "NordInvasion",
-    "map": "Swadian Temple",
+    "map": "Coastal Raid",
     "players": 0,
     "max": 16
   },
   {
     "name": "NI_CN_Normal",
     "module": "NordInvasion",
-    "map": "Caravan Ambush",
+    "map": "Swadian Temple",
     "players": 0,
     "max": 16
   },
   {
     "name": "NI_CN_Ragnarok",
     "module": "NordInvasion",
-    "map": "Swadian Mines",
+    "map": "Forgotten Bay",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Beginner_1",
+    "module": "NordInvasion",
+    "map": "Swadian Town",
     "players": 0,
     "max": 16
   },
@@ -35,23 +42,16 @@
     "max": 8
   },
   {
-    "name": "NI_EU_Hard_2",
+    "name": "NI_EU_Hard_1",
     "module": "NordInvasion",
-    "map": "Frosthaven",
+    "map": "Keancuop Forest",
     "players": 0,
     "max": 16
   },
   {
-    "name": "NI_EU_Normal_1",
+    "name": "NI_EU_Hard_3",
     "module": "NordInvasion",
-    "map": "Nordic Village",
-    "players": 2,
-    "max": 16
-  },
-  {
-    "name": "NI_EU_Normal_3",
-    "module": "NordInvasion",
-    "map": "Offshore",
+    "map": "Swadian Folly",
     "players": 0,
     "max": 16
   },
