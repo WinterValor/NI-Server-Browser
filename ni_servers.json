@@ -28,20 +28,6 @@
     "max": 16
   },
   {
-    "name": "NI_EU_Beginner_1",
-    "module": "NordInvasion",
-    "map": "Swadian Outskirts",
-    "players": 0,
-    "max": 16
-  },
-  {
-    "name": "NI_EU_Cavalry_1",
-    "module": "NordInvasion",
-    "map": "Plains of Knudarr",
-    "players": 0,
-    "max": 8
-  },
-  {
     "name": "NI_EU_Cavalry_2",
     "module": "NordInvasion",
     "map": "Plains of Knudarr",
@@ -51,22 +37,22 @@
   {
     "name": "NI_EU_Hard_2",
     "module": "NordInvasion",
-    "map": "Hidden Farm",
+    "map": "Frosthaven",
     "players": 0,
     "max": 16
   },
   {
     "name": "NI_EU_Normal_1",
     "module": "NordInvasion",
-    "map": "Mountain Pass",
-    "players": 0,
+    "map": "Nordic Village",
+    "players": 2,
     "max": 16
   },
   {
-    "name": "NI_EU_Ragnarok_1",
+    "name": "NI_EU_Normal_3",
     "module": "NordInvasion",
-    "map": "Forgotten Bay",
-    "players": 15,
+    "map": "Offshore",
+    "players": 0,
     "max": 16
   },
   {
