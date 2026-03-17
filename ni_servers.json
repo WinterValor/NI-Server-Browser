@@ -2,15 +2,15 @@
   {
     "name": "NI_CN_Cavalry",
     "module": "NordInvasion",
-    "map": "Medieval Fields",
-    "players": 8,
+    "map": "Beach Assault",
+    "players": 0,
     "max": 8
   },
   {
     "name": "NI_CN_Hard",
     "module": "NordInvasion",
-    "map": "Graubergen",
-    "players": 0,
+    "map": "Forest Outpost",
+    "players": 2,
     "max": 16
   },
   {
@@ -21,9 +21,16 @@
     "max": 16
   },
   {
-    "name": "NI_CN_Ragnarok",
+    "name": "NI_CN_Ragnarok*",
     "module": "NordInvasion",
-    "map": "Forgotten Bay",
+    "map": "First Defence",
+    "players": 17,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Beginner_1",
+    "module": "NordInvasion",
+    "map": "Swadian Outskirts",
     "players": 0,
     "max": 16
   },
@@ -35,23 +42,30 @@
     "max": 8
   },
   {
-    "name": "NI_EU_Cavalry_2",
+    "name": "NI_EU_Hard_1",
     "module": "NordInvasion",
-    "map": "Plains of Knudarr",
-    "players": 0,
-    "max": 8
-  },
-  {
-    "name": "NI_EU_Normal_1",
-    "module": "NordInvasion",
-    "map": "Keancuop Forest",
+    "map": "Caravan Ambush",
     "players": 0,
     "max": 16
   },
   {
-    "name": "NI_EU_Normal_3",
+    "name": "NI_EU_Hard_2",
     "module": "NordInvasion",
-    "map": "Fortress Outskirts",
+    "map": "Swadian Great Hall",
+    "players": 3,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Hard_3",
+    "module": "NordInvasion",
+    "map": "Forest Outpost",
+    "players": 0,
+    "max": 16
+  },
+  {
+    "name": "NI_EU_Normal_2",
+    "module": "NordInvasion",
+    "map": "Swadian City",
     "players": 0,
     "max": 16
   },
