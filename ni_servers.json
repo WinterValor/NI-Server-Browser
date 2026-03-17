@@ -2,14 +2,14 @@
   {
     "name": "NI_CN_Cavalry",
     "module": "NordInvasion",
-    "map": "Battle of Praven",
+    "map": "Winter's Respite",
     "players": 0,
     "max": 8
   },
   {
     "name": "NI_CN_Hard",
     "module": "NordInvasion",
-    "map": "Yalen Retreat",
+    "map": "Unuzdaq Castle",
     "players": 5,
     "max": 16
   },
@@ -58,15 +58,15 @@
   {
     "name": "NI_EU_Hard_2",
     "module": "NordInvasion",
-    "map": "Swadian Temple",
-    "players": 0,
+    "map": "Lake Town",
+    "players": 7,
     "max": 16
   },
   {
     "name": "NI_EU_Hard_3",
     "module": "NordInvasion",
-    "map": "Hyper's Hell",
-    "players": 7,
+    "map": "Forest Outpost",
+    "players": 0,
     "max": 16
   },
   {
